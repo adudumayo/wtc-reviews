@@ -19,3 +19,5 @@ while true; do
         break
     fi
 done
+
+#python3 ./filterScript.py
