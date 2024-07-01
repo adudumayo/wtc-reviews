@@ -18458,10 +18458,8 @@ wtc-lms decline acid-light-odd-rough
 Fundamentals > Modules & Packages > Toy Robot 4 (bawdy-testy-broad-lift) [Graded]
 wtc-lms review_details bawdy-testy-broad-lift
 
-Fundamentals > Modules & Packages > Toy Robot 4 (tall-cute-male-noise) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 4 (tall-cute-male-noise) [Graded]
 wtc-lms review_details tall-cute-male-noise
-wtc-lms add_comment tall-cute-male-noise "New Comment"
-wtc-lms complete_review tall-cute-male-noise
 
 Fundamentals > Modules & Packages > Toy Robot 4 (steep-amuck-glib-many) [Assigned]
 wtc-lms review_details steep-amuck-glib-many
