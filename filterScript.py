@@ -1,7 +1,10 @@
-print("Testing")
 with open('output.txt', 'r') as file:
     lines = file.readlines()
     for i in range(len(lines)):
-        if "[Invited]" in lines[i]:
-            print(lines[i+2])
+        if "[Assigned]" in lines[i]:
+            acceptLine = lines[i+2]
+            #print(acceptLine)
+            break
 
+    uuid = acceptLine.split(" ")[2]
+    print(uuid)

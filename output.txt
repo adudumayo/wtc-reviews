@@ -74,10 +74,8 @@ wtc-lms review_details tight-tight-duty
 Fundamentals > Procedures > Toy Robot 1 (nifty-drab-bag) [Graded]
 wtc-lms review_details nifty-drab-bag
 
-Fundamentals > Procedures > Mastermind 2 (rigid-ultra-soil) [Invited]
+Fundamentals > Procedures > Mastermind 2 (rigid-ultra-soil) [Graded]
 wtc-lms review_details rigid-ultra-soil
-wtc-lms accept rigid-ultra-soil
-wtc-lms decline rigid-ultra-soil
 
 Fundamentals > Procedures > Mastermind 2 (lush-tacit-boat) [Invited]
 wtc-lms review_details lush-tacit-boat
@@ -18461,10 +18459,8 @@ wtc-lms review_details acid-light-odd-rough
 wtc-lms accept acid-light-odd-rough
 wtc-lms decline acid-light-odd-rough
 
-Fundamentals > Modules & Packages > Toy Robot 4 (bawdy-testy-broad-lift) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 4 (bawdy-testy-broad-lift) [Graded]
 wtc-lms review_details bawdy-testy-broad-lift
-wtc-lms add_comment bawdy-testy-broad-lift "New Comment"
-wtc-lms complete_review bawdy-testy-broad-lift
 
 Fundamentals > Modules & Packages > Toy Robot 4 (tall-cute-male-noise) [Assigned]
 wtc-lms review_details tall-cute-male-noise
@@ -18561,10 +18557,8 @@ wtc-lms review_details light-bored-faint-space
 wtc-lms accept light-bored-faint-space
 wtc-lms decline light-bored-faint-space
 
-Object Orientation > Encapsulation > Person Iteration 2 (bent-right-ready-foot) [Invited]
+Object Orientation > Encapsulation > Person Iteration 2 (bent-right-ready-foot) [AcceptanceBlocked]
 wtc-lms review_details bent-right-ready-foot
-wtc-lms accept bent-right-ready-foot
-wtc-lms decline bent-right-ready-foot
 
 Object Orientation > Encapsulation > Car Iteration 1 (daffy-macho-far-trip) [Invited]
 wtc-lms review_details daffy-macho-far-trip

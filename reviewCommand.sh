@@ -15,7 +15,8 @@ while true; do
         echo "Running the command again..."
         output=$($command)
     else
-        python3 ./filterScript.py
+        acceptReview=$(python3 ./filterScript.py)
+        echo $acceptReview
         break
     fi
 done
