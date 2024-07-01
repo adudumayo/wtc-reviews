@@ -18461,15 +18461,11 @@ wtc-lms review_details bawdy-testy-broad-lift
 Fundamentals > Modules & Packages > Toy Robot 4 (tall-cute-male-noise) [Graded]
 wtc-lms review_details tall-cute-male-noise
 
-Fundamentals > Modules & Packages > Toy Robot 4 (steep-amuck-glib-many) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 4 (steep-amuck-glib-many) [Graded]
 wtc-lms review_details steep-amuck-glib-many
-wtc-lms add_comment steep-amuck-glib-many "New Comment"
-wtc-lms complete_review steep-amuck-glib-many
 
-Fundamentals > Modules & Packages > Toy Robot 5 (sassy-quack-royal-move) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 5 (sassy-quack-royal-move) [Graded]
 wtc-lms review_details sassy-quack-royal-move
-wtc-lms add_comment sassy-quack-royal-move "New Comment"
-wtc-lms complete_review sassy-quack-royal-move
 
 Fundamentals > Modules & Packages > Toy Robot 5 (brown-light-half-equal) [Assigned]
 wtc-lms review_details brown-light-half-equal
@@ -18734,5 +18730,10 @@ Object Orientation > Encapsulation > Car Iteration 2 (tasty-late-cruel-drive) [I
 wtc-lms review_details tasty-late-cruel-drive
 wtc-lms accept tasty-late-cruel-drive
 wtc-lms decline tasty-late-cruel-drive
+
+Object Orientation > Encapsulation > Person Iteration 1 (nine-dear-taboo-today) [Invited]
+wtc-lms review_details nine-dear-taboo-today
+wtc-lms accept nine-dear-taboo-today
+wtc-lms decline nine-dear-taboo-today
 
 --------------------------------------------------------------------------------------------------------------------------------
