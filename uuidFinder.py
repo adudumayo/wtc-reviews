@@ -3,8 +3,10 @@ with open('output.txt', 'r') as file:
     for i in range(len(lines)):
         if "[Assigned]" in lines[i]:
             acceptLine = lines[i+2]
-            #print(acceptLine)
             break
 
-    uuid = acceptLine.split(" ")[2]
-    print(uuid)
+    try:
+        uuid = acceptLine.split(" ")[2]
+        print(uuid)
+    except NameError as e:
+        print("Not a uuid")

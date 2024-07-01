@@ -18467,15 +18467,11 @@ wtc-lms review_details steep-amuck-glib-many
 Fundamentals > Modules & Packages > Toy Robot 5 (sassy-quack-royal-move) [Graded]
 wtc-lms review_details sassy-quack-royal-move
 
-Fundamentals > Modules & Packages > Toy Robot 5 (brown-light-half-equal) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 5 (brown-light-half-equal) [Graded]
 wtc-lms review_details brown-light-half-equal
-wtc-lms add_comment brown-light-half-equal "New Comment"
-wtc-lms complete_review brown-light-half-equal
 
-Fundamentals > Modules & Packages > Toy Robot 5 (neat-steep-giddy-cell) [Assigned]
+Fundamentals > Modules & Packages > Toy Robot 5 (neat-steep-giddy-cell) [Graded]
 wtc-lms review_details neat-steep-giddy-cell
-wtc-lms add_comment neat-steep-giddy-cell "New Comment"
-wtc-lms complete_review neat-steep-giddy-cell
 
 Object Orientation > Encapsulation > Movies (shut-smart-wary-mind) [Invited]
 wtc-lms review_details shut-smart-wary-mind
@@ -18726,14 +18722,28 @@ wtc-lms review_details zippy-cut-known-fix
 Object Orientation > Encapsulation > Person Iteration 1 (bent-furry-weary-tell) [Graded]
 wtc-lms review_details bent-furry-weary-tell
 
-Object Orientation > Encapsulation > Car Iteration 2 (tasty-late-cruel-drive) [Invited]
+Object Orientation > Encapsulation > Car Iteration 2 (tasty-late-cruel-drive) [AcceptanceBlocked]
 wtc-lms review_details tasty-late-cruel-drive
-wtc-lms accept tasty-late-cruel-drive
-wtc-lms decline tasty-late-cruel-drive
 
 Object Orientation > Encapsulation > Person Iteration 1 (nine-dear-taboo-today) [Invited]
 wtc-lms review_details nine-dear-taboo-today
 wtc-lms accept nine-dear-taboo-today
 wtc-lms decline nine-dear-taboo-today
+
+Object Orientation > Encapsulation > Person Iteration 2 (raspy-awful-amuck-suck) [Graded]
+wtc-lms review_details raspy-awful-amuck-suck
+
+Object Orientation > Encapsulation > Person Iteration 3 (thin-early-wrong-hat) [Invited]
+wtc-lms review_details thin-early-wrong-hat
+wtc-lms accept thin-early-wrong-hat
+wtc-lms decline thin-early-wrong-hat
+
+Object Orientation > Encapsulation > Person Iteration 4 (wiry-shut-many-exam) [Graded]
+wtc-lms review_details wiry-shut-many-exam
+
+Object Orientation > Encapsulation > Movies (bad-broad-bad-chart) [Invited]
+wtc-lms review_details bad-broad-bad-chart
+wtc-lms accept bad-broad-bad-chart
+wtc-lms decline bad-broad-bad-chart
 
 --------------------------------------------------------------------------------------------------------------------------------
