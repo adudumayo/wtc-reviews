@@ -15,9 +15,8 @@ while true; do
         echo "Running the command again..."
         output=$($command)
     else
-        echo "Perfecto!"
+        python3 ./filterScript.py
         break
     fi
 done
 
-#python3 ./filterScript.py

@@ -9959,10 +9959,8 @@ wtc-lms review_details nosy-minor-hurt-rent
 wtc-lms accept nosy-minor-hurt-rent
 wtc-lms decline nosy-minor-hurt-rent
 
-Object Orientation > Encapsulation > Car Iteration 2 (puny-four-fat-wash) [Invited]
+Object Orientation > Encapsulation > Car Iteration 2 (puny-four-fat-wash) [AcceptanceBlocked]
 wtc-lms review_details puny-four-fat-wash
-wtc-lms accept puny-four-fat-wash
-wtc-lms decline puny-four-fat-wash
 
 Object Orientation > Encapsulation > Car Iteration 1 (nippy-heady-quick-punch) [Invited]
 wtc-lms review_details nippy-heady-quick-punch
@@ -10069,10 +10067,8 @@ wtc-lms review_details full-rural-tired-cheek
 wtc-lms accept full-rural-tired-cheek
 wtc-lms decline full-rural-tired-cheek
 
-Object Orientation > Encapsulation > Car Iteration 2 (dry-dull-sable-sign) [Invited]
+Object Orientation > Encapsulation > Car Iteration 2 (dry-dull-sable-sign) [AcceptanceBlocked]
 wtc-lms review_details dry-dull-sable-sign
-wtc-lms accept dry-dull-sable-sign
-wtc-lms decline dry-dull-sable-sign
 
 Fundamentals > Calling Functions > Recursion (cute-steep-low-agent) [Invited]
 wtc-lms review_details cute-steep-low-agent
@@ -11169,10 +11165,8 @@ wtc-lms review_details rich-pale-foamy-stage
 wtc-lms accept rich-pale-foamy-stage
 wtc-lms decline rich-pale-foamy-stage
 
-Object Orientation > Encapsulation > Person Iteration 1 (three-ill-furry-drop) [Invited]
+Object Orientation > Encapsulation > Person Iteration 1 (three-ill-furry-drop) [AcceptanceBlocked]
 wtc-lms review_details three-ill-furry-drop
-wtc-lms accept three-ill-furry-drop
-wtc-lms decline three-ill-furry-drop
 
 Object Orientation > Encapsulation > Person Iteration 1 (white-used-clean-desk) [Invited]
 wtc-lms review_details white-used-clean-desk
@@ -13109,10 +13103,8 @@ wtc-lms review_details cagey-awful-tacit-stuff
 wtc-lms accept cagey-awful-tacit-stuff
 wtc-lms decline cagey-awful-tacit-stuff
 
-Object Orientation > Encapsulation > Person Iteration 1 (brown-left-rural-job) [Invited]
+Object Orientation > Encapsulation > Person Iteration 1 (brown-left-rural-job) [AcceptanceBlocked]
 wtc-lms review_details brown-left-rural-job
-wtc-lms accept brown-left-rural-job
-wtc-lms decline brown-left-rural-job
 
 Object Orientation > Encapsulation > Car Iteration 2 (windy-small-green-war) [Invited]
 wtc-lms review_details windy-small-green-war
@@ -13144,20 +13136,16 @@ wtc-lms review_details elfin-bawdy-fast-bus
 wtc-lms accept elfin-bawdy-fast-bus
 wtc-lms decline elfin-bawdy-fast-bus
 
-Object Orientation > Encapsulation > Car Iteration 1 (ratty-huge-plant-might) [Invited]
+Object Orientation > Encapsulation > Car Iteration 1 (ratty-huge-plant-might) [AcceptanceBlocked]
 wtc-lms review_details ratty-huge-plant-might
-wtc-lms accept ratty-huge-plant-might
-wtc-lms decline ratty-huge-plant-might
 
 Object Orientation > Encapsulation > Car Iteration 2 (naive-jazzy-teeny-hang) [Invited]
 wtc-lms review_details naive-jazzy-teeny-hang
 wtc-lms accept naive-jazzy-teeny-hang
 wtc-lms decline naive-jazzy-teeny-hang
 
-Object Orientation > Encapsulation > Car Iteration 2 (dusty-giant-small-eat) [Invited]
+Object Orientation > Encapsulation > Car Iteration 2 (dusty-giant-small-eat) [AcceptanceBlocked]
 wtc-lms review_details dusty-giant-small-eat
-wtc-lms accept dusty-giant-small-eat
-wtc-lms decline dusty-giant-small-eat
 
 Object Orientation > Encapsulation > Person Iteration 2 (solid-stiff-nine-grass) [Invited]
 wtc-lms review_details solid-stiff-nine-grass
@@ -13179,10 +13167,8 @@ wtc-lms review_details free-mixed-old-novel
 wtc-lms accept free-mixed-old-novel
 wtc-lms decline free-mixed-old-novel
 
-Object Orientation > Encapsulation > Person Iteration 2 (past-nappy-jumpy-path) [Invited]
+Object Orientation > Encapsulation > Person Iteration 2 (past-nappy-jumpy-path) [AcceptanceBlocked]
 wtc-lms review_details past-nappy-jumpy-path
-wtc-lms accept past-nappy-jumpy-path
-wtc-lms decline past-nappy-jumpy-path
 
 Object Orientation > Encapsulation > Person Iteration 2 (godly-teeny-nippy-paper) [Invited]
 wtc-lms review_details godly-teeny-nippy-paper
@@ -13359,10 +13345,8 @@ wtc-lms review_details cagey-right-quick-gene
 wtc-lms accept cagey-right-quick-gene
 wtc-lms decline cagey-right-quick-gene
 
-Object Orientation > Encapsulation > Person Iteration 3 (grey-alive-awful-storm) [Invited]
+Object Orientation > Encapsulation > Person Iteration 3 (grey-alive-awful-storm) [AcceptanceBlocked]
 wtc-lms review_details grey-alive-awful-storm
-wtc-lms accept grey-alive-awful-storm
-wtc-lms decline grey-alive-awful-storm
 
 Object Orientation > Encapsulation > Person Iteration 3 (male-low-odd-abuse) [Invited]
 wtc-lms review_details male-low-odd-abuse
@@ -18074,10 +18058,8 @@ wtc-lms review_details heady-three-poor-wave
 wtc-lms accept heady-three-poor-wave
 wtc-lms decline heady-three-poor-wave
 
-Object Orientation > Encapsulation > Movies (tart-mixed-bawdy-salad) [Invited]
+Object Orientation > Encapsulation > Movies (tart-mixed-bawdy-salad) [AcceptanceBlocked]
 wtc-lms review_details tart-mixed-bawdy-salad
-wtc-lms accept tart-mixed-bawdy-salad
-wtc-lms decline tart-mixed-bawdy-salad
 
 Object Orientation > Encapsulation > Movies (super-bawdy-rude-trade) [Invited]
 wtc-lms review_details super-bawdy-rude-trade
@@ -18214,832 +18196,10 @@ wtc-lms review_details icy-nutty-rare-gap
 wtc-lms accept icy-nutty-rare-gap
 wtc-lms decline icy-nutty-rare-gap
 
-Object Orientation > Encapsulation > Explorer Bot 1 (foamy-lying-zany-fire) [ReviewLimitReached]
-wtc-lms review_details foamy-lying-zany-fire
-
-Object Orientation > Encapsulation > Explorer Bot 1 (extra-heady-large-cow) [ReviewLimitReached]
-wtc-lms review_details extra-heady-large-cow
-
-Object Orientation > Encapsulation > Explorer Bot 1 (zippy-erect-cruel-stage) [ReviewLimitReached]
-wtc-lms review_details zippy-erect-cruel-stage
-
-Object Orientation > Encapsulation > Explorer Bot 1 (steep-brave-tough-cup) [ReviewLimitReached]
-wtc-lms review_details steep-brave-tough-cup
-
-Object Orientation > Encapsulation > Explorer Bot 1 (early-jazzy-mean-spell) [ReviewLimitReached]
-wtc-lms review_details early-jazzy-mean-spell
-
-Object Orientation > Encapsulation > Explorer Bot 1 (far-zesty-two-guide) [ReviewLimitReached]
-wtc-lms review_details far-zesty-two-guide
-
-Object Orientation > Encapsulation > Explorer Bot 1 (dry-tangy-dull-gene) [ReviewLimitReached]
-wtc-lms review_details dry-tangy-dull-gene
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cute-quiet-mute-piano) [ReviewLimitReached]
-wtc-lms review_details cute-quiet-mute-piano
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nappy-brash-wiry-trip) [ReviewLimitReached]
-wtc-lms review_details nappy-brash-wiry-trip
-
-Object Orientation > Encapsulation > Explorer Bot 1 (equal-loose-jazzy-sky) [ReviewLimitReached]
-wtc-lms review_details equal-loose-jazzy-sky
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cut-messy-misty-cross) [ReviewLimitReached]
-wtc-lms review_details cut-messy-misty-cross
-
-Object Orientation > Encapsulation > Explorer Bot 1 (heavy-few-even-habit) [ReviewLimitReached]
-wtc-lms review_details heavy-few-even-habit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nifty-bawdy-awake-dream) [ReviewLimitReached]
-wtc-lms review_details nifty-bawdy-awake-dream
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nippy-royal-smart-man) [ReviewLimitReached]
-wtc-lms review_details nippy-royal-smart-man
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fat-slim-cut-wash) [ReviewLimitReached]
-wtc-lms review_details fat-slim-cut-wash
-
-Object Orientation > Encapsulation > Explorer Bot 1 (silky-rabid-alive-it) [ReviewLimitReached]
-wtc-lms review_details silky-rabid-alive-it
-
-Object Orientation > Encapsulation > Explorer Bot 1 (plant-used-mere-board) [ReviewLimitReached]
-wtc-lms review_details plant-used-mere-board
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mean-gamy-short-music) [ReviewLimitReached]
-wtc-lms review_details mean-gamy-short-music
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ten-rude-one-box) [ReviewLimitReached]
-wtc-lms review_details ten-rude-one-box
-
-Object Orientation > Encapsulation > Explorer Bot 1 (vague-rabid-alike-bend) [ReviewLimitReached]
-wtc-lms review_details vague-rabid-alike-bend
-
-Object Orientation > Encapsulation > Explorer Bot 1 (amuck-heady-giant-storm) [ReviewLimitReached]
-wtc-lms review_details amuck-heady-giant-storm
-
-Object Orientation > Encapsulation > Explorer Bot 1 (noisy-super-gabby-bath) [ReviewLimitReached]
-wtc-lms review_details noisy-super-gabby-bath
-
-Object Orientation > Encapsulation > Explorer Bot 1 (crazy-level-ratty-shame) [ReviewLimitReached]
-wtc-lms review_details crazy-level-ratty-shame
-
-Object Orientation > Encapsulation > Explorer Bot 1 (flat-new-scary-guess) [ReviewLimitReached]
-wtc-lms review_details flat-new-scary-guess
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tame-plain-rough-gain) [ReviewLimitReached]
-wtc-lms review_details tame-plain-rough-gain
-
-Object Orientation > Encapsulation > Explorer Bot 1 (super-three-icky-broad) [ReviewLimitReached]
-wtc-lms review_details super-three-icky-broad
-
-Object Orientation > Encapsulation > Explorer Bot 1 (chief-cool-even-ask) [ReviewLimitReached]
-wtc-lms review_details chief-cool-even-ask
-
-Object Orientation > Encapsulation > Explorer Bot 1 (used-tense-nasty-brief) [ReviewLimitReached]
-wtc-lms review_details used-tense-nasty-brief
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tough-dusty-gray-step) [ReviewLimitReached]
-wtc-lms review_details tough-dusty-gray-step
-
-Object Orientation > Encapsulation > Explorer Bot 1 (happy-blue-naive-rough) [ReviewLimitReached]
-wtc-lms review_details happy-blue-naive-rough
-
-Object Orientation > Encapsulation > Explorer Bot 1 (gaudy-jazzy-ultra-let) [ReviewLimitReached]
-wtc-lms review_details gaudy-jazzy-ultra-let
-
-Object Orientation > Encapsulation > Explorer Bot 1 (many-early-tall-spray) [ReviewLimitReached]
-wtc-lms review_details many-early-tall-spray
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wry-madly-gray-buy) [ReviewLimitReached]
-wtc-lms review_details wry-madly-gray-buy
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lean-long-ahead-sale) [ReviewLimitReached]
-wtc-lms review_details lean-long-ahead-sale
-
-Object Orientation > Encapsulation > Explorer Bot 1 (hard-naive-low-wrap) [ReviewLimitReached]
-wtc-lms review_details hard-naive-low-wrap
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lean-daffy-extra-crash) [ReviewLimitReached]
-wtc-lms review_details lean-daffy-extra-crash
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sassy-furry-nasty-drama) [ReviewLimitReached]
-wtc-lms review_details sassy-furry-nasty-drama
-
-Object Orientation > Encapsulation > Explorer Bot 1 (poor-windy-gabby-site) [ReviewLimitReached]
-wtc-lms review_details poor-windy-gabby-site
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sable-eager-husky-hope) [ReviewLimitReached]
-wtc-lms review_details sable-eager-husky-hope
-
-Object Orientation > Encapsulation > Explorer Bot 1 (damp-light-meek-event) [ReviewLimitReached]
-wtc-lms review_details damp-light-meek-event
-
-Object Orientation > Encapsulation > Explorer Bot 1 (kaput-fine-jumpy-pool) [ReviewLimitReached]
-wtc-lms review_details kaput-fine-jumpy-pool
-
-Object Orientation > Encapsulation > Explorer Bot 1 (aback-round-swift-block) [ReviewLimitReached]
-wtc-lms review_details aback-round-swift-block
-
-Object Orientation > Encapsulation > Explorer Bot 1 (itchy-flat-wrong-field) [ReviewLimitReached]
-wtc-lms review_details itchy-flat-wrong-field
-
-Object Orientation > Encapsulation > Explorer Bot 1 (thick-cute-extra-lie) [ReviewLimitReached]
-wtc-lms review_details thick-cute-extra-lie
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ahead-happy-mere-gift) [ReviewLimitReached]
-wtc-lms review_details ahead-happy-mere-gift
-
-Object Orientation > Encapsulation > Explorer Bot 1 (silly-jazzy-jolly-hope) [ReviewLimitReached]
-wtc-lms review_details silly-jazzy-jolly-hope
-
-Object Orientation > Encapsulation > Explorer Bot 1 (handy-soft-sable-wear) [ReviewLimitReached]
-wtc-lms review_details handy-soft-sable-wear
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lying-cute-great-yard) [ReviewLimitReached]
-wtc-lms review_details lying-cute-great-yard
-
-Object Orientation > Encapsulation > Explorer Bot 1 (late-royal-shiny-ease) [ReviewLimitReached]
-wtc-lms review_details late-royal-shiny-ease
-
-Object Orientation > Encapsulation > Explorer Bot 1 (high-yummy-like-care) [ReviewLimitReached]
-wtc-lms review_details high-yummy-like-care
-
-Object Orientation > Encapsulation > Explorer Bot 1 (kind-cheap-used-risk) [ReviewLimitReached]
-wtc-lms review_details kind-cheap-used-risk
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nappy-hurt-tired-carry) [ReviewLimitReached]
-wtc-lms review_details nappy-hurt-tired-carry
-
-Object Orientation > Encapsulation > Explorer Bot 1 (past-wrong-five-gas) [ReviewLimitReached]
-wtc-lms review_details past-wrong-five-gas
-
-Object Orientation > Encapsulation > Explorer Bot 1 (murky-clean-quick-royal) [ReviewLimitReached]
-wtc-lms review_details murky-clean-quick-royal
-
-Object Orientation > Encapsulation > Explorer Bot 1 (alike-trite-ugly-prize) [ReviewLimitReached]
-wtc-lms review_details alike-trite-ugly-prize
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tan-wise-big-rice) [ReviewLimitReached]
-wtc-lms review_details tan-wise-big-rice
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sour-hurt-smart-tree) [ReviewLimitReached]
-wtc-lms review_details sour-hurt-smart-tree
-
-Object Orientation > Encapsulation > Explorer Bot 1 (hot-easy-warm-gap) [ReviewLimitReached]
-wtc-lms review_details hot-easy-warm-gap
-
-Object Orientation > Encapsulation > Explorer Bot 1 (proud-loose-cute-fat) [ReviewLimitReached]
-wtc-lms review_details proud-loose-cute-fat
-
-Object Orientation > Encapsulation > Explorer Bot 1 (upset-ready-ugly-fault) [ReviewLimitReached]
-wtc-lms review_details upset-ready-ugly-fault
-
-Object Orientation > Encapsulation > Explorer Bot 1 (broad-black-rapid-slide) [ReviewLimitReached]
-wtc-lms review_details broad-black-rapid-slide
-
-Object Orientation > Encapsulation > Explorer Bot 1 (poor-shut-thin-hate) [ReviewLimitReached]
-wtc-lms review_details poor-shut-thin-hate
-
-Object Orientation > Encapsulation > Explorer Bot 1 (testy-ready-pale-egg) [ReviewLimitReached]
-wtc-lms review_details testy-ready-pale-egg
-
-Object Orientation > Encapsulation > Explorer Bot 1 (slow-silky-rigid-pop) [ReviewLimitReached]
-wtc-lms review_details slow-silky-rigid-pop
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ten-young-free-ball) [ReviewLimitReached]
-wtc-lms review_details ten-young-free-ball
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ultra-steep-far-room) [ReviewLimitReached]
-wtc-lms review_details ultra-steep-far-room
-
-Object Orientation > Encapsulation > Explorer Bot 1 (soggy-acid-yummy-give) [ReviewLimitReached]
-wtc-lms review_details soggy-acid-yummy-give
-
-Object Orientation > Encapsulation > Explorer Bot 1 (acrid-funny-new-value) [ReviewLimitReached]
-wtc-lms review_details acrid-funny-new-value
-
-Object Orientation > Encapsulation > Explorer Bot 1 (scary-shy-tight-sport) [ReviewLimitReached]
-wtc-lms review_details scary-shy-tight-sport
-
-Object Orientation > Encapsulation > Explorer Bot 1 (godly-dry-tacky-stop) [ReviewLimitReached]
-wtc-lms review_details godly-dry-tacky-stop
-
-Object Orientation > Encapsulation > Explorer Bot 1 (able-giddy-lying-punch) [ReviewLimitReached]
-wtc-lms review_details able-giddy-lying-punch
-
-Object Orientation > Encapsulation > Explorer Bot 1 (husky-known-pale-habit) [ReviewLimitReached]
-wtc-lms review_details husky-known-pale-habit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nine-jolly-soft-king) [ReviewLimitReached]
-wtc-lms review_details nine-jolly-soft-king
-
-Object Orientation > Encapsulation > Explorer Bot 1 (dusty-last-used-egg) [ReviewLimitReached]
-wtc-lms review_details dusty-last-used-egg
-
-Object Orientation > Encapsulation > Explorer Bot 1 (juicy-new-heavy-drop) [ReviewLimitReached]
-wtc-lms review_details juicy-new-heavy-drop
-
-Object Orientation > Encapsulation > Explorer Bot 1 (thick-elfin-calm-chip) [ReviewLimitReached]
-wtc-lms review_details thick-elfin-calm-chip
-
-Object Orientation > Encapsulation > Explorer Bot 1 (early-empty-solid-chest) [ReviewLimitReached]
-wtc-lms review_details early-empty-solid-chest
-
-Object Orientation > Encapsulation > Explorer Bot 1 (broad-shaky-smart-sugar) [ReviewLimitReached]
-wtc-lms review_details broad-shaky-smart-sugar
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rigid-awake-dark-juice) [ReviewLimitReached]
-wtc-lms review_details rigid-awake-dark-juice
-
-Object Orientation > Encapsulation > Explorer Bot 1 (pushy-quiet-hurt-virus) [ReviewLimitReached]
-wtc-lms review_details pushy-quiet-hurt-virus
-
-Object Orientation > Encapsulation > Explorer Bot 1 (gabby-cute-left-panic) [ReviewLimitReached]
-wtc-lms review_details gabby-cute-left-panic
-
-Object Orientation > Encapsulation > Explorer Bot 1 (half-icky-sick-fail) [ReviewLimitReached]
-wtc-lms review_details half-icky-sick-fail
-
-Object Orientation > Encapsulation > Explorer Bot 1 (stale-crazy-large-study) [ReviewLimitReached]
-wtc-lms review_details stale-crazy-large-study
-
-Object Orientation > Encapsulation > Explorer Bot 1 (shaky-even-misty-world) [ReviewLimitReached]
-wtc-lms review_details shaky-even-misty-world
-
-Object Orientation > Encapsulation > Explorer Bot 1 (able-amuck-ugly-share) [ReviewLimitReached]
-wtc-lms review_details able-amuck-ugly-share
-
-Object Orientation > Encapsulation > Explorer Bot 1 (plant-nasty-acrid-base) [ReviewLimitReached]
-wtc-lms review_details plant-nasty-acrid-base
-
-Object Orientation > Encapsulation > Explorer Bot 1 (steep-known-spicy-list) [ReviewLimitReached]
-wtc-lms review_details steep-known-spicy-list
-
-Object Orientation > Encapsulation > Explorer Bot 1 (past-lame-male-cake) [ReviewLimitReached]
-wtc-lms review_details past-lame-male-cake
-
-Object Orientation > Encapsulation > Explorer Bot 1 (witty-high-lumpy-card) [ReviewLimitReached]
-wtc-lms review_details witty-high-lumpy-card
-
-Object Orientation > Encapsulation > Explorer Bot 1 (true-nine-meek-kind) [ReviewLimitReached]
-wtc-lms review_details true-nine-meek-kind
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sore-red-two-point) [ReviewLimitReached]
-wtc-lms review_details sore-red-two-point
-
-Object Orientation > Encapsulation > Explorer Bot 1 (plant-dry-tall-dish) [ReviewLimitReached]
-wtc-lms review_details plant-dry-tall-dish
-
-Object Orientation > Encapsulation > Explorer Bot 1 (godly-jazzy-weak-army) [ReviewLimitReached]
-wtc-lms review_details godly-jazzy-weak-army
-
-Object Orientation > Encapsulation > Explorer Bot 1 (aware-ruddy-ill-kind) [ReviewLimitReached]
-wtc-lms review_details aware-ruddy-ill-kind
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cruel-lewd-cut-curve) [ReviewLimitReached]
-wtc-lms review_details cruel-lewd-cut-curve
-
-Object Orientation > Encapsulation > Explorer Bot 1 (drab-half-dusty-bar) [ReviewLimitReached]
-wtc-lms review_details drab-half-dusty-bar
-
-Object Orientation > Encapsulation > Explorer Bot 1 (big-silky-cold-mood) [ReviewLimitReached]
-wtc-lms review_details big-silky-cold-mood
-
-Object Orientation > Encapsulation > Explorer Bot 1 (weary-mute-keen-scale) [ReviewLimitReached]
-wtc-lms review_details weary-mute-keen-scale
-
-Object Orientation > Encapsulation > Explorer Bot 1 (dizzy-messy-slimy-dot) [ReviewLimitReached]
-wtc-lms review_details dizzy-messy-slimy-dot
-
-Object Orientation > Encapsulation > Explorer Bot 1 (stale-low-swift-nerve) [ReviewLimitReached]
-wtc-lms review_details stale-low-swift-nerve
-
-Object Orientation > Encapsulation > Explorer Bot 1 (proud-eager-male-bread) [ReviewLimitReached]
-wtc-lms review_details proud-eager-male-bread
-
-Object Orientation > Encapsulation > Explorer Bot 1 (gaudy-heady-tan-fight) [ReviewLimitReached]
-wtc-lms review_details gaudy-heady-tan-fight
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nutty-weak-first-shame) [ReviewLimitReached]
-wtc-lms review_details nutty-weak-first-shame
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mushy-tacit-grey-final) [ReviewLimitReached]
-wtc-lms review_details mushy-tacit-grey-final
-
-Object Orientation > Encapsulation > Explorer Bot 1 (brave-long-dark-angle) [ReviewLimitReached]
-wtc-lms review_details brave-long-dark-angle
-
-Object Orientation > Encapsulation > Explorer Bot 1 (low-macho-misty-part) [ReviewLimitReached]
-wtc-lms review_details low-macho-misty-part
-
-Object Orientation > Encapsulation > Explorer Bot 1 (macho-tacky-curvy-run) [ReviewLimitReached]
-wtc-lms review_details macho-tacky-curvy-run
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tiny-sable-small-jump) [ReviewLimitReached]
-wtc-lms review_details tiny-sable-small-jump
-
-Object Orientation > Encapsulation > Explorer Bot 1 (yummy-plant-quick-food) [ReviewLimitReached]
-wtc-lms review_details yummy-plant-quick-food
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mere-juicy-brief-nose) [ReviewLimitReached]
-wtc-lms review_details mere-juicy-brief-nose
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sore-happy-heavy-net) [ReviewLimitReached]
-wtc-lms review_details sore-happy-heavy-net
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tacit-real-poor-delay) [ReviewLimitReached]
-wtc-lms review_details tacit-real-poor-delay
-
-Object Orientation > Encapsulation > Explorer Bot 1 (faded-best-goofy-fail) [ReviewLimitReached]
-wtc-lms review_details faded-best-goofy-fail
-
-Object Orientation > Encapsulation > Explorer Bot 1 (quack-salty-rabid-put) [ReviewLimitReached]
-wtc-lms review_details quack-salty-rabid-put
-
-Object Orientation > Encapsulation > Explorer Bot 1 (hot-good-false-story) [ReviewLimitReached]
-wtc-lms review_details hot-good-false-story
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ready-ritzy-abaft-baby) [ReviewLimitReached]
-wtc-lms review_details ready-ritzy-abaft-baby
-
-Object Orientation > Encapsulation > Explorer Bot 1 (known-puffy-black-black) [ReviewLimitReached]
-wtc-lms review_details known-puffy-black-black
-
-Object Orientation > Encapsulation > Explorer Bot 1 (calm-royal-real-god) [ReviewLimitReached]
-wtc-lms review_details calm-royal-real-god
-
-Object Orientation > Encapsulation > Explorer Bot 1 (handy-dark-tired-bone) [ReviewLimitReached]
-wtc-lms review_details handy-dark-tired-bone
-
-Object Orientation > Encapsulation > Explorer Bot 1 (madly-lucky-glib-speed) [ReviewLimitReached]
-wtc-lms review_details madly-lucky-glib-speed
-
-Object Orientation > Encapsulation > Explorer Bot 1 (elite-smart-blue-angle) [ReviewLimitReached]
-wtc-lms review_details elite-smart-blue-angle
-
-Object Orientation > Encapsulation > Explorer Bot 1 (messy-neat-damp-woman) [ReviewLimitReached]
-wtc-lms review_details messy-neat-damp-woman
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ugly-large-third-boy) [ReviewLimitReached]
-wtc-lms review_details ugly-large-third-boy
-
-Object Orientation > Encapsulation > Explorer Bot 1 (white-right-macho-gap) [ReviewLimitReached]
-wtc-lms review_details white-right-macho-gap
-
-Object Orientation > Encapsulation > Explorer Bot 1 (broad-legal-small-smoke) [ReviewLimitReached]
-wtc-lms review_details broad-legal-small-smoke
-
-Object Orientation > Encapsulation > Explorer Bot 1 (scary-gamy-ten-pace) [ReviewLimitReached]
-wtc-lms review_details scary-gamy-ten-pace
-
-Object Orientation > Encapsulation > Explorer Bot 1 (clean-dry-murky-lady) [ReviewLimitReached]
-wtc-lms review_details clean-dry-murky-lady
-
-Object Orientation > Encapsulation > Explorer Bot 1 (vague-bawdy-brown-tap) [ReviewLimitReached]
-wtc-lms review_details vague-bawdy-brown-tap
-
-Object Orientation > Encapsulation > Explorer Bot 1 (black-meek-jolly-leg) [ReviewLimitReached]
-wtc-lms review_details black-meek-jolly-leg
-
-Object Orientation > Encapsulation > Explorer Bot 1 (plant-rebel-clean-drama) [ReviewLimitReached]
-wtc-lms review_details plant-rebel-clean-drama
-
-Object Orientation > Encapsulation > Explorer Bot 1 (woozy-light-burly-war) [ReviewLimitReached]
-wtc-lms review_details woozy-light-burly-war
-
-Object Orientation > Encapsulation > Explorer Bot 1 (poor-flaky-mute-bar) [ReviewLimitReached]
-wtc-lms review_details poor-flaky-mute-bar
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lucky-empty-able-move) [ReviewLimitReached]
-wtc-lms review_details lucky-empty-able-move
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nappy-lowly-equal-due) [ReviewLimitReached]
-wtc-lms review_details nappy-lowly-equal-due
-
-Object Orientation > Encapsulation > Explorer Bot 1 (loud-bawdy-rough-law) [ReviewLimitReached]
-wtc-lms review_details loud-bawdy-rough-law
-
-Object Orientation > Encapsulation > Explorer Bot 1 (woozy-wacky-pink-heat) [ReviewLimitReached]
-wtc-lms review_details woozy-wacky-pink-heat
-
-Object Orientation > Encapsulation > Explorer Bot 1 (stale-noisy-mixed-dot) [ReviewLimitReached]
-wtc-lms review_details stale-noisy-mixed-dot
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tacit-ritzy-old-pass) [ReviewLimitReached]
-wtc-lms review_details tacit-ritzy-old-pass
-
-Object Orientation > Encapsulation > Explorer Bot 1 (oval-three-short-son) [ReviewLimitReached]
-wtc-lms review_details oval-three-short-son
-
-Object Orientation > Encapsulation > Explorer Bot 1 (dusty-extra-milky-dream) [ReviewLimitReached]
-wtc-lms review_details dusty-extra-milky-dream
-
-Object Orientation > Encapsulation > Explorer Bot 1 (aware-mute-tasty-day) [ReviewLimitReached]
-wtc-lms review_details aware-mute-tasty-day
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wacky-heavy-soggy-fold) [ReviewLimitReached]
-wtc-lms review_details wacky-heavy-soggy-fold
-
-Object Orientation > Encapsulation > Explorer Bot 1 (broad-zany-pushy-shame) [ReviewLimitReached]
-wtc-lms review_details broad-zany-pushy-shame
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tense-rough-erect-skirt) [ReviewLimitReached]
-wtc-lms review_details tense-rough-erect-skirt
-
-Object Orientation > Encapsulation > Explorer Bot 1 (needy-smart-cute-award) [ReviewLimitReached]
-wtc-lms review_details needy-smart-cute-award
-
-Object Orientation > Encapsulation > Explorer Bot 1 (same-ready-last-wall) [ReviewLimitReached]
-wtc-lms review_details same-ready-last-wall
-
-Object Orientation > Encapsulation > Explorer Bot 1 (past-fair-hurt-god) [ReviewLimitReached]
-wtc-lms review_details past-fair-hurt-god
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tired-lame-tense-court) [ReviewLimitReached]
-wtc-lms review_details tired-lame-tense-court
-
-Object Orientation > Encapsulation > Explorer Bot 1 (plain-warm-lame-item) [ReviewLimitReached]
-wtc-lms review_details plain-warm-lame-item
-
-Object Orientation > Encapsulation > Explorer Bot 1 (swift-known-chief-suck) [ReviewLimitReached]
-wtc-lms review_details swift-known-chief-suck
-
-Object Orientation > Encapsulation > Explorer Bot 1 (easy-silky-near-issue) [ReviewLimitReached]
-wtc-lms review_details easy-silky-near-issue
-
-Object Orientation > Encapsulation > Explorer Bot 1 (aware-tired-dark-it) [ReviewLimitReached]
-wtc-lms review_details aware-tired-dark-it
-
-Object Orientation > Encapsulation > Explorer Bot 1 (abaft-lush-lush-range) [ReviewLimitReached]
-wtc-lms review_details abaft-lush-lush-range
-
-Object Orientation > Encapsulation > Explorer Bot 1 (puffy-aware-full-spare) [ReviewLimitReached]
-wtc-lms review_details puffy-aware-full-spare
-
-Object Orientation > Encapsulation > Explorer Bot 1 (overt-false-rare-click) [ReviewLimitReached]
-wtc-lms review_details overt-false-rare-click
-
-Object Orientation > Encapsulation > Explorer Bot 1 (small-fixed-full-media) [ReviewLimitReached]
-wtc-lms review_details small-fixed-full-media
-
-Object Orientation > Encapsulation > Explorer Bot 1 (milky-far-vague-year) [ReviewLimitReached]
-wtc-lms review_details milky-far-vague-year
-
-Object Orientation > Encapsulation > Explorer Bot 1 (chief-keen-fat-stuff) [ReviewLimitReached]
-wtc-lms review_details chief-keen-fat-stuff
-
-Object Orientation > Encapsulation > Explorer Bot 1 (elfin-vague-quick-cash) [ReviewLimitReached]
-wtc-lms review_details elfin-vague-quick-cash
-
-Object Orientation > Encapsulation > Explorer Bot 1 (next-awake-tart-sleep) [ReviewLimitReached]
-wtc-lms review_details next-awake-tart-sleep
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fine-nasty-lame-put) [ReviewLimitReached]
-wtc-lms review_details fine-nasty-lame-put
-
-Object Orientation > Encapsulation > Explorer Bot 1 (happy-lean-brave-movie) [ReviewLimitReached]
-wtc-lms review_details happy-lean-brave-movie
-
-Object Orientation > Encapsulation > Explorer Bot 1 (minor-mere-wacky-will) [ReviewLimitReached]
-wtc-lms review_details minor-mere-wacky-will
-
-Object Orientation > Encapsulation > Explorer Bot 1 (big-broad-brash-price) [ReviewLimitReached]
-wtc-lms review_details big-broad-brash-price
-
-Object Orientation > Encapsulation > Explorer Bot 1 (clean-big-madly-male) [ReviewLimitReached]
-wtc-lms review_details clean-big-madly-male
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mere-weary-great-lake) [ReviewLimitReached]
-wtc-lms review_details mere-weary-great-lake
-
-Object Orientation > Encapsulation > Explorer Bot 1 (testy-clean-macho-tax) [ReviewLimitReached]
-wtc-lms review_details testy-clean-macho-tax
-
-Object Orientation > Encapsulation > Explorer Bot 1 (green-minor-equal-name) [ReviewLimitReached]
-wtc-lms review_details green-minor-equal-name
-
-Object Orientation > Encapsulation > Explorer Bot 1 (extra-tense-lucky-state) [ReviewLimitReached]
-wtc-lms review_details extra-tense-lucky-state
-
-Object Orientation > Encapsulation > Explorer Bot 1 (level-fresh-sweet-quiet) [ReviewLimitReached]
-wtc-lms review_details level-fresh-sweet-quiet
-
-Object Orientation > Encapsulation > Explorer Bot 1 (brown-ahead-raspy-crew) [ReviewLimitReached]
-wtc-lms review_details brown-ahead-raspy-crew
-
-Object Orientation > Encapsulation > Explorer Bot 1 (husky-five-white-name) [ReviewLimitReached]
-wtc-lms review_details husky-five-white-name
-
-Object Orientation > Encapsulation > Explorer Bot 1 (soggy-cagey-two-hell) [ReviewLimitReached]
-wtc-lms review_details soggy-cagey-two-hell
-
-Object Orientation > Encapsulation > Explorer Bot 1 (pushy-rich-sore-mark) [ReviewLimitReached]
-wtc-lms review_details pushy-rich-sore-mark
-
-Object Orientation > Encapsulation > Explorer Bot 1 (open-green-milky-mind) [ReviewLimitReached]
-wtc-lms review_details open-green-milky-mind
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nutty-tan-odd-sweet) [ReviewLimitReached]
-wtc-lms review_details nutty-tan-odd-sweet
-
-Object Orientation > Encapsulation > Explorer Bot 1 (whole-sour-fast-nasty) [ReviewLimitReached]
-wtc-lms review_details whole-sour-fast-nasty
-
-Object Orientation > Encapsulation > Explorer Bot 1 (hurt-dizzy-sore-white) [ReviewLimitReached]
-wtc-lms review_details hurt-dizzy-sore-white
-
-Object Orientation > Encapsulation > Explorer Bot 1 (empty-needy-good-safe) [ReviewLimitReached]
-wtc-lms review_details empty-needy-good-safe
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tiny-steep-roomy-total) [ReviewLimitReached]
-wtc-lms review_details tiny-steep-roomy-total
-
-Object Orientation > Encapsulation > Explorer Bot 1 (pushy-spiky-rich-delay) [ReviewLimitReached]
-wtc-lms review_details pushy-spiky-rich-delay
-
-Object Orientation > Encapsulation > Explorer Bot 1 (flat-funny-tired-solid) [ReviewLimitReached]
-wtc-lms review_details flat-funny-tired-solid
-
-Object Orientation > Encapsulation > Explorer Bot 1 (jumpy-bored-lean-bit) [ReviewLimitReached]
-wtc-lms review_details jumpy-bored-lean-bit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (round-solid-white-tap) [ReviewLimitReached]
-wtc-lms review_details round-solid-white-tap
-
-Object Orientation > Encapsulation > Explorer Bot 1 (testy-mean-rigid-smile) [ReviewLimitReached]
-wtc-lms review_details testy-mean-rigid-smile
-
-Object Orientation > Encapsulation > Explorer Bot 1 (smart-super-moldy-help) [ReviewLimitReached]
-wtc-lms review_details smart-super-moldy-help
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tight-light-ratty-neat) [ReviewLimitReached]
-wtc-lms review_details tight-light-ratty-neat
-
-Object Orientation > Encapsulation > Explorer Bot 1 (bored-sulky-weak-award) [ReviewLimitReached]
-wtc-lms review_details bored-sulky-weak-award
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cheap-goofy-broad-south) [ReviewLimitReached]
-wtc-lms review_details cheap-goofy-broad-south
-
-Object Orientation > Encapsulation > Explorer Bot 1 (gaudy-weak-nippy-pitch) [ReviewLimitReached]
-wtc-lms review_details gaudy-weak-nippy-pitch
-
-Object Orientation > Encapsulation > Explorer Bot 1 (erect-jolly-nasty-video) [ReviewLimitReached]
-wtc-lms review_details erect-jolly-nasty-video
-
-Object Orientation > Encapsulation > Explorer Bot 1 (godly-sour-cute-boy) [ReviewLimitReached]
-wtc-lms review_details godly-sour-cute-boy
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lucky-fine-sable-room) [ReviewLimitReached]
-wtc-lms review_details lucky-fine-sable-room
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cruel-lean-lucky-dad) [ReviewLimitReached]
-wtc-lms review_details cruel-lean-lucky-dad
-
-Object Orientation > Encapsulation > Explorer Bot 1 (great-pale-nosy-neck) [ReviewLimitReached]
-wtc-lms review_details great-pale-nosy-neck
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rare-giddy-clean-voice) [ReviewLimitReached]
-wtc-lms review_details rare-giddy-clean-voice
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fast-red-sore-crack) [ReviewLimitReached]
-wtc-lms review_details fast-red-sore-crack
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mushy-dry-brash-law) [ReviewLimitReached]
-wtc-lms review_details mushy-dry-brash-law
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ugly-lazy-kaput-crack) [ReviewLimitReached]
-wtc-lms review_details ugly-lazy-kaput-crack
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wet-dead-tasty-buddy) [ReviewLimitReached]
-wtc-lms review_details wet-dead-tasty-buddy
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wild-brown-slim-book) [ReviewLimitReached]
-wtc-lms review_details wild-brown-slim-book
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rough-good-one-fight) [ReviewLimitReached]
-wtc-lms review_details rough-good-one-fight
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rough-abaft-dirty-offer) [ReviewLimitReached]
-wtc-lms review_details rough-abaft-dirty-offer
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sassy-lucky-tired-care) [ReviewLimitReached]
-wtc-lms review_details sassy-lucky-tired-care
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tidy-testy-four-pain) [ReviewLimitReached]
-wtc-lms review_details tidy-testy-four-pain
-
-Object Orientation > Encapsulation > Explorer Bot 1 (long-round-stiff-force) [ReviewLimitReached]
-wtc-lms review_details long-round-stiff-force
-
-Object Orientation > Encapsulation > Explorer Bot 1 (angry-empty-slim-place) [ReviewLimitReached]
-wtc-lms review_details angry-empty-slim-place
-
-Object Orientation > Encapsulation > Explorer Bot 1 (witty-handy-gusty-girl) [ReviewLimitReached]
-wtc-lms review_details witty-handy-gusty-girl
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cut-same-glib-equal) [ReviewLimitReached]
-wtc-lms review_details cut-same-glib-equal
-
-Object Orientation > Encapsulation > Explorer Bot 1 (best-icy-right-stock) [ReviewLimitReached]
-wtc-lms review_details best-icy-right-stock
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lush-oval-bumpy-usual) [ReviewLimitReached]
-wtc-lms review_details lush-oval-bumpy-usual
-
-Object Orientation > Encapsulation > Explorer Bot 1 (true-rare-wild-raw) [ReviewLimitReached]
-wtc-lms review_details true-rare-wild-raw
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cool-lying-itchy-text) [ReviewLimitReached]
-wtc-lms review_details cool-lying-itchy-text
-
-Object Orientation > Encapsulation > Explorer Bot 1 (loose-swift-rich-tell) [ReviewLimitReached]
-wtc-lms review_details loose-swift-rich-tell
-
-Object Orientation > Encapsulation > Explorer Bot 1 (early-tall-tough-size) [ReviewLimitReached]
-wtc-lms review_details early-tall-tough-size
-
-Object Orientation > Encapsulation > Explorer Bot 1 (brave-steep-lush-pass) [ReviewLimitReached]
-wtc-lms review_details brave-steep-lush-pass
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sweet-gaudy-daily-pay) [ReviewLimitReached]
-wtc-lms review_details sweet-gaudy-daily-pay
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rigid-cold-ready-rule) [ReviewLimitReached]
-wtc-lms review_details rigid-cold-ready-rule
-
-Object Orientation > Encapsulation > Explorer Bot 1 (happy-minor-sour-iron) [ReviewLimitReached]
-wtc-lms review_details happy-minor-sour-iron
-
-Object Orientation > Encapsulation > Explorer Bot 1 (meaty-tidy-level-price) [ReviewLimitReached]
-wtc-lms review_details meaty-tidy-level-price
-
-Object Orientation > Encapsulation > Explorer Bot 1 (good-fixed-giddy-catch) [ReviewLimitReached]
-wtc-lms review_details good-fixed-giddy-catch
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rainy-mushy-witty-upper) [ReviewLimitReached]
-wtc-lms review_details rainy-mushy-witty-upper
-
-Object Orientation > Encapsulation > Explorer Bot 1 (known-hurt-big-coast) [ReviewLimitReached]
-wtc-lms review_details known-hurt-big-coast
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fast-ritzy-aloof-reach) [ReviewLimitReached]
-wtc-lms review_details fast-ritzy-aloof-reach
-
-Object Orientation > Encapsulation > Explorer Bot 1 (alert-third-rare-visit) [ReviewLimitReached]
-wtc-lms review_details alert-third-rare-visit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tacky-sharp-silly-shape) [ReviewLimitReached]
-wtc-lms review_details tacky-sharp-silly-shape
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tight-odd-vague-hate) [ReviewLimitReached]
-wtc-lms review_details tight-odd-vague-hate
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nosy-young-known-blue) [ReviewLimitReached]
-wtc-lms review_details nosy-young-known-blue
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lush-silly-tan-fold) [ReviewLimitReached]
-wtc-lms review_details lush-silly-tan-fold
-
-Object Orientation > Encapsulation > Explorer Bot 1 (overt-madly-alive-cash) [ReviewLimitReached]
-wtc-lms review_details overt-madly-alive-cash
-
-Object Orientation > Encapsulation > Explorer Bot 1 (weak-high-pushy-thing) [ReviewLimitReached]
-wtc-lms review_details weak-high-pushy-thing
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rigid-heady-heavy-knife) [ReviewLimitReached]
-wtc-lms review_details rigid-heady-heavy-knife
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sour-proud-hot-plane) [ReviewLimitReached]
-wtc-lms review_details sour-proud-hot-plane
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mere-swift-tacky-key) [ReviewLimitReached]
-wtc-lms review_details mere-swift-tacky-key
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nutty-icy-angry-web) [ReviewLimitReached]
-wtc-lms review_details nutty-icy-angry-web
-
-Object Orientation > Encapsulation > Explorer Bot 1 (empty-right-weak-habit) [ReviewLimitReached]
-wtc-lms review_details empty-right-weak-habit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (vast-false-sharp-sand) [ReviewLimitReached]
-wtc-lms review_details vast-false-sharp-sand
-
-Object Orientation > Encapsulation > Explorer Bot 1 (four-dry-loose-funny) [ReviewLimitReached]
-wtc-lms review_details four-dry-loose-funny
-
-Object Orientation > Encapsulation > Explorer Bot 1 (sore-shaky-wise-swing) [ReviewLimitReached]
-wtc-lms review_details sore-shaky-wise-swing
-
-Object Orientation > Encapsulation > Explorer Bot 1 (clean-sulky-level-lake) [ReviewLimitReached]
-wtc-lms review_details clean-sulky-level-lake
-
-Object Orientation > Encapsulation > Explorer Bot 1 (young-deep-lumpy-fact) [ReviewLimitReached]
-wtc-lms review_details young-deep-lumpy-fact
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tacky-jumpy-super-lake) [ReviewLimitReached]
-wtc-lms review_details tacky-jumpy-super-lake
-
-Object Orientation > Encapsulation > Explorer Bot 1 (puny-weary-nutty-love) [ReviewLimitReached]
-wtc-lms review_details puny-weary-nutty-love
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lewd-wacky-dark-virus) [ReviewLimitReached]
-wtc-lms review_details lewd-wacky-dark-virus
-
-Object Orientation > Encapsulation > Explorer Bot 1 (irate-puffy-keen-lack) [ReviewLimitReached]
-wtc-lms review_details irate-puffy-keen-lack
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rare-best-goofy-soil) [ReviewLimitReached]
-wtc-lms review_details rare-best-goofy-soil
-
-Object Orientation > Encapsulation > Explorer Bot 1 (known-sassy-daily-major) [ReviewLimitReached]
-wtc-lms review_details known-sassy-daily-major
-
-Object Orientation > Encapsulation > Explorer Bot 1 (yummy-even-tacky-bus) [ReviewLimitReached]
-wtc-lms review_details yummy-even-tacky-bus
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cruel-lame-burly-low) [ReviewLimitReached]
-wtc-lms review_details cruel-lame-burly-low
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tough-brown-super-noise) [ReviewLimitReached]
-wtc-lms review_details tough-brown-super-noise
-
-Object Orientation > Encapsulation > Explorer Bot 1 (next-level-easy-hello) [ReviewLimitReached]
-wtc-lms review_details next-level-easy-hello
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lumpy-green-wry-fire) [ReviewLimitReached]
-wtc-lms review_details lumpy-green-wry-fire
-
-Object Orientation > Encapsulation > Explorer Bot 1 (husky-nine-foamy-visit) [ReviewLimitReached]
-wtc-lms review_details husky-nine-foamy-visit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (used-six-godly-seat) [ReviewLimitReached]
-wtc-lms review_details used-six-godly-seat
-
-Object Orientation > Encapsulation > Explorer Bot 1 (madly-cute-heady-bug) [ReviewLimitReached]
-wtc-lms review_details madly-cute-heady-bug
-
-Object Orientation > Encapsulation > Explorer Bot 1 (even-green-drab-guard) [ReviewLimitReached]
-wtc-lms review_details even-green-drab-guard
-
-Object Orientation > Encapsulation > Explorer Bot 1 (giant-awful-jaded-task) [ReviewLimitReached]
-wtc-lms review_details giant-awful-jaded-task
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nice-ugly-curly-chest) [ReviewLimitReached]
-wtc-lms review_details nice-ugly-curly-chest
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nutty-smart-dead-honey) [ReviewLimitReached]
-wtc-lms review_details nutty-smart-dead-honey
-
-Object Orientation > Encapsulation > Explorer Bot 1 (left-meaty-aback-shock) [ReviewLimitReached]
-wtc-lms review_details left-meaty-aback-shock
-
-Object Orientation > Encapsulation > Explorer Bot 1 (lucky-like-lush-worth) [ReviewLimitReached]
-wtc-lms review_details lucky-like-lush-worth
-
-Object Orientation > Encapsulation > Explorer Bot 1 (eight-old-soft-sell) [ReviewLimitReached]
-wtc-lms review_details eight-old-soft-sell
-
-Object Orientation > Encapsulation > Explorer Bot 1 (zesty-few-stale-shift) [ReviewLimitReached]
-wtc-lms review_details zesty-few-stale-shift
-
-Object Orientation > Encapsulation > Explorer Bot 1 (slim-harsh-drab-tooth) [ReviewLimitReached]
-wtc-lms review_details slim-harsh-drab-tooth
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cruel-wild-happy-catch) [ReviewLimitReached]
-wtc-lms review_details cruel-wild-happy-catch
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wild-awful-slim-dust) [ReviewLimitReached]
-wtc-lms review_details wild-awful-slim-dust
-
-Object Orientation > Encapsulation > Explorer Bot 1 (erect-true-tight-black) [ReviewLimitReached]
-wtc-lms review_details erect-true-tight-black
-
-Object Orientation > Encapsulation > Explorer Bot 1 (equal-easy-five-steak) [ReviewLimitReached]
-wtc-lms review_details equal-easy-five-steak
-
-Object Orientation > Encapsulation > Explorer Bot 1 (loose-dull-empty-skirt) [ReviewLimitReached]
-wtc-lms review_details loose-dull-empty-skirt
-
-Object Orientation > Encapsulation > Explorer Bot 1 (mute-low-taboo-pack) [ReviewLimitReached]
-wtc-lms review_details mute-low-taboo-pack
-
-Object Orientation > Encapsulation > Explorer Bot 1 (blue-half-shut-smoke) [ReviewLimitReached]
-wtc-lms review_details blue-half-shut-smoke
-
-Object Orientation > Encapsulation > Explorer Bot 1 (frail-tense-scary-it) [ReviewLimitReached]
-wtc-lms review_details frail-tense-scary-it
-
 Object Orientation > Encapsulation > Person Iteration 1 (godly-same-sable-paper) [Invited]
 wtc-lms review_details godly-same-sable-paper
 wtc-lms accept godly-same-sable-paper
 wtc-lms decline godly-same-sable-paper
-
-Object Orientation > Encapsulation > Explorer Bot 1 (high-hurt-nappy-ad) [ReviewLimitReached]
-wtc-lms review_details high-hurt-nappy-ad
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tame-sick-pink-tax) [ReviewLimitReached]
-wtc-lms review_details tame-sick-pink-tax
 
 Object Orientation > Encapsulation > Movies (wild-amuck-fixed-crash) [Invited]
 wtc-lms review_details wild-amuck-fixed-crash
@@ -19061,9 +18221,6 @@ wtc-lms review_details silly-needy-short-guess
 wtc-lms accept silly-needy-short-guess
 wtc-lms decline silly-needy-short-guess
 
-Object Orientation > Encapsulation > Explorer Bot 1 (sharp-null-dizzy-jury) [ReviewLimitReached]
-wtc-lms review_details sharp-null-dizzy-jury
-
 Object Orientation > Encapsulation > Movies (ripe-wacky-first-solid) [Invited]
 wtc-lms review_details ripe-wacky-first-solid
 wtc-lms accept ripe-wacky-first-solid
@@ -19083,9 +18240,6 @@ Object Orientation > Encapsulation > Person Iteration 3 (nutty-rigid-acid-talk) 
 wtc-lms review_details nutty-rigid-acid-talk
 wtc-lms accept nutty-rigid-acid-talk
 wtc-lms decline nutty-rigid-acid-talk
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wry-ill-naive-knife) [ReviewLimitReached]
-wtc-lms review_details wry-ill-naive-knife
 
 Object Orientation > Encapsulation > Person Iteration 4 (keen-gamy-thick-poem) [Invited]
 wtc-lms review_details keen-gamy-thick-poem
@@ -19112,9 +18266,6 @@ wtc-lms review_details two-swift-cool-brick
 wtc-lms accept two-swift-cool-brick
 wtc-lms decline two-swift-cool-brick
 
-Object Orientation > Encapsulation > Explorer Bot 1 (smart-wild-mixed-abuse) [ReviewLimitReached]
-wtc-lms review_details smart-wild-mixed-abuse
-
 Object Orientation > Encapsulation > Person Iteration 3 (high-tan-true-shift) [Invited]
 wtc-lms review_details high-tan-true-shift
 wtc-lms accept high-tan-true-shift
@@ -19135,27 +18286,15 @@ wtc-lms review_details wiry-gusty-wary-shock
 wtc-lms accept wiry-gusty-wary-shock
 wtc-lms decline wiry-gusty-wary-shock
 
-Object Orientation > Encapsulation > Explorer Bot 1 (false-rare-husky-star) [ReviewLimitReached]
-wtc-lms review_details false-rare-husky-star
-
-Object Orientation > Encapsulation > Explorer Bot 1 (full-cagey-used-cream) [ReviewLimitReached]
-wtc-lms review_details full-cagey-used-cream
-
 Object Orientation > Encapsulation > Movies (eager-warm-huge-wake) [Invited]
 wtc-lms review_details eager-warm-huge-wake
 wtc-lms accept eager-warm-huge-wake
 wtc-lms decline eager-warm-huge-wake
 
-Object Orientation > Encapsulation > Explorer Bot 1 (gabby-male-faint-knee) [ReviewLimitReached]
-wtc-lms review_details gabby-male-faint-knee
-
 Object Orientation > Encapsulation > Movies (jaded-foamy-sharp-spend) [Invited]
 wtc-lms review_details jaded-foamy-sharp-spend
 wtc-lms accept jaded-foamy-sharp-spend
 wtc-lms decline jaded-foamy-sharp-spend
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ill-bumpy-foamy-hello) [ReviewLimitReached]
-wtc-lms review_details ill-bumpy-foamy-hello
 
 Object Orientation > Encapsulation > Movies (chief-free-mere-carry) [Invited]
 wtc-lms review_details chief-free-mere-carry
@@ -19172,12 +18311,6 @@ wtc-lms review_details raspy-tacit-keen-air
 wtc-lms accept raspy-tacit-keen-air
 wtc-lms decline raspy-tacit-keen-air
 
-Object Orientation > Encapsulation > Explorer Bot 1 (broad-foamy-alike-rate) [ReviewLimitReached]
-wtc-lms review_details broad-foamy-alike-rate
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ill-three-rare-ruin) [ReviewLimitReached]
-wtc-lms review_details ill-three-rare-ruin
-
 Object Orientation > Encapsulation > Person Iteration 4 (bawdy-loose-last-paper) [Invited]
 wtc-lms review_details bawdy-loose-last-paper
 wtc-lms accept bawdy-loose-last-paper
@@ -19192,15 +18325,6 @@ Object Orientation > Encapsulation > Movies (false-like-like-exit) [Invited]
 wtc-lms review_details false-like-like-exit
 wtc-lms accept false-like-like-exit
 wtc-lms decline false-like-like-exit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cheap-bent-eager-pizza) [ReviewLimitReached]
-wtc-lms review_details cheap-bent-eager-pizza
-
-Object Orientation > Encapsulation > Explorer Bot 1 (erect-itchy-clean-trade) [ReviewLimitReached]
-wtc-lms review_details erect-itchy-clean-trade
-
-Object Orientation > Encapsulation > Explorer Bot 1 (late-bawdy-rude-hurt) [ReviewLimitReached]
-wtc-lms review_details late-bawdy-rude-hurt
 
 Object Orientation > Encapsulation > Movies (faded-shiny-tense-burn) [Invited]
 wtc-lms review_details faded-shiny-tense-burn
@@ -19217,12 +18341,6 @@ wtc-lms review_details white-hard-moldy-page
 wtc-lms accept white-hard-moldy-page
 wtc-lms decline white-hard-moldy-page
 
-Object Orientation > Encapsulation > Explorer Bot 1 (drunk-wet-easy-woman) [ReviewLimitReached]
-wtc-lms review_details drunk-wet-easy-woman
-
-Object Orientation > Encapsulation > Explorer Bot 1 (frail-naive-small-fire) [ReviewLimitReached]
-wtc-lms review_details frail-naive-small-fire
-
 Object Orientation > Encapsulation > Person Iteration 3 (royal-rabid-kaput-blue) [Invited]
 wtc-lms review_details royal-rabid-kaput-blue
 wtc-lms accept royal-rabid-kaput-blue
@@ -19232,9 +18350,6 @@ Object Orientation > Encapsulation > Movies (free-male-lucky-quiet) [Invited]
 wtc-lms review_details free-male-lucky-quiet
 wtc-lms accept free-male-lucky-quiet
 wtc-lms decline free-male-lucky-quiet
-
-Object Orientation > Encapsulation > Explorer Bot 1 (big-quack-foamy-prize) [ReviewLimitReached]
-wtc-lms review_details big-quack-foamy-prize
 
 Object Orientation > Encapsulation > Movies (first-short-like-anger) [Invited]
 wtc-lms review_details first-short-like-anger
@@ -19256,9 +18371,6 @@ wtc-lms review_details neat-fine-lewd-stage
 wtc-lms accept neat-fine-lewd-stage
 wtc-lms decline neat-fine-lewd-stage
 
-Object Orientation > Encapsulation > Explorer Bot 1 (wary-dark-few-wind) [ReviewLimitReached]
-wtc-lms review_details wary-dark-few-wind
-
 Object Orientation > Encapsulation > Person Iteration 4 (young-one-ajar-brick) [Invited]
 wtc-lms review_details young-one-ajar-brick
 wtc-lms accept young-one-ajar-brick
@@ -19268,9 +18380,6 @@ Object Orientation > Encapsulation > Movies (vague-warm-scary-grass) [Invited]
 wtc-lms review_details vague-warm-scary-grass
 wtc-lms accept vague-warm-scary-grass
 wtc-lms decline vague-warm-scary-grass
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wrong-quack-nifty-copy) [ReviewLimitReached]
-wtc-lms review_details wrong-quack-nifty-copy
 
 Fundamentals > Processing Collections > Word Processing (salty-right-lazy-spot) [Invited]
 wtc-lms review_details salty-right-lazy-spot
@@ -19282,9 +18391,6 @@ wtc-lms review_details mixed-rude-fat-cut
 wtc-lms accept mixed-rude-fat-cut
 wtc-lms decline mixed-rude-fat-cut
 
-Object Orientation > Encapsulation > Explorer Bot 1 (lucky-obese-two-stand) [ReviewLimitReached]
-wtc-lms review_details lucky-obese-two-stand
-
 Object Orientation > Encapsulation > Person Iteration 4 (daily-alive-nutty-roof) [Invited]
 wtc-lms review_details daily-alive-nutty-roof
 wtc-lms accept daily-alive-nutty-roof
@@ -19295,24 +18401,6 @@ wtc-lms review_details rich-alert-weak-watch
 wtc-lms accept rich-alert-weak-watch
 wtc-lms decline rich-alert-weak-watch
 
-Object Orientation > Encapsulation > Explorer Bot 1 (bad-woozy-acid-union) [ReviewLimitReached]
-wtc-lms review_details bad-woozy-acid-union
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wiry-wild-brash-dump) [ReviewLimitReached]
-wtc-lms review_details wiry-wild-brash-dump
-
-Object Orientation > Encapsulation > Explorer Bot 1 (angry-overt-loose-juice) [ReviewLimitReached]
-wtc-lms review_details angry-overt-loose-juice
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wrong-fair-plain-drop) [ReviewLimitReached]
-wtc-lms review_details wrong-fair-plain-drop
-
-Object Orientation > Encapsulation > Explorer Bot 1 (tart-level-jazzy-hat) [ReviewLimitReached]
-wtc-lms review_details tart-level-jazzy-hat
-
-Object Orientation > Encapsulation > Explorer Bot 1 (odd-nosy-super-chart) [ReviewLimitReached]
-wtc-lms review_details odd-nosy-super-chart
-
 Object Orientation > Encapsulation > Movies (sad-swift-gabby-track) [Invited]
 wtc-lms review_details sad-swift-gabby-track
 wtc-lms accept sad-swift-gabby-track
@@ -19322,24 +18410,6 @@ Object Orientation > Encapsulation > Movies (giddy-rabid-known-tool) [Invited]
 wtc-lms review_details giddy-rabid-known-tool
 wtc-lms accept giddy-rabid-known-tool
 wtc-lms decline giddy-rabid-known-tool
-
-Object Orientation > Encapsulation > Explorer Bot 1 (flaky-neat-elite-shame) [ReviewLimitReached]
-wtc-lms review_details flaky-neat-elite-shame
-
-Object Orientation > Encapsulation > Explorer Bot 1 (noisy-slim-deep-boy) [ReviewLimitReached]
-wtc-lms review_details noisy-slim-deep-boy
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ritzy-raspy-husky-pace) [ReviewLimitReached]
-wtc-lms review_details ritzy-raspy-husky-pace
-
-Object Orientation > Encapsulation > Explorer Bot 1 (puffy-giant-shut-north) [ReviewLimitReached]
-wtc-lms review_details puffy-giant-shut-north
-
-Object Orientation > Encapsulation > Explorer Bot 1 (cute-spiky-nappy-hang) [ReviewLimitReached]
-wtc-lms review_details cute-spiky-nappy-hang
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wacky-alert-odd-net) [ReviewLimitReached]
-wtc-lms review_details wacky-alert-odd-net
 
 Object Orientation > Encapsulation > Movies (grey-heavy-right-kiss) [Invited]
 wtc-lms review_details grey-heavy-right-kiss
@@ -19365,21 +18435,6 @@ Object Orientation > Encapsulation > Movies (silly-dear-wrong-skirt) [Invited]
 wtc-lms review_details silly-dear-wrong-skirt
 wtc-lms accept silly-dear-wrong-skirt
 wtc-lms decline silly-dear-wrong-skirt
-
-Object Orientation > Encapsulation > Explorer Bot 1 (wary-jaded-broad-hello) [ReviewLimitReached]
-wtc-lms review_details wary-jaded-broad-hello
-
-Object Orientation > Encapsulation > Explorer Bot 1 (giant-half-vast-bill) [ReviewLimitReached]
-wtc-lms review_details giant-half-vast-bill
-
-Object Orientation > Encapsulation > Explorer Bot 1 (rare-kind-ready-bonus) [ReviewLimitReached]
-wtc-lms review_details rare-kind-ready-bonus
-
-Object Orientation > Encapsulation > Explorer Bot 1 (best-scary-brave-beach) [ReviewLimitReached]
-wtc-lms review_details best-scary-brave-beach
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fat-daily-bad-host) [ReviewLimitReached]
-wtc-lms review_details fat-daily-bad-host
 
 Object Orientation > Encapsulation > Movies (dusty-new-left-cause) [Invited]
 wtc-lms review_details dusty-new-left-cause
@@ -19451,66 +18506,30 @@ wtc-lms review_details rare-real-weak-head
 wtc-lms accept rare-real-weak-head
 wtc-lms decline rare-real-weak-head
 
-Object Orientation > Encapsulation > Explorer Bot 1 (aware-nippy-lame-exam) [ReviewLimitReached]
-wtc-lms review_details aware-nippy-lame-exam
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ten-even-ill-diet) [ReviewLimitReached]
-wtc-lms review_details ten-even-ill-diet
-
-Object Orientation > Encapsulation > Explorer Bot 1 (solid-loud-icky-cheek) [ReviewLimitReached]
-wtc-lms review_details solid-loud-icky-cheek
-
-Object Orientation > Encapsulation > Explorer Bot 1 (low-broad-low-win) [ReviewLimitReached]
-wtc-lms review_details low-broad-low-win
-
 Object Orientation > Encapsulation > Movies (ajar-zesty-five-check) [Invited]
 wtc-lms review_details ajar-zesty-five-check
 wtc-lms accept ajar-zesty-five-check
 wtc-lms decline ajar-zesty-five-check
-
-Object Orientation > Encapsulation > Explorer Bot 1 (dirty-heavy-ill-prize) [ReviewLimitReached]
-wtc-lms review_details dirty-heavy-ill-prize
 
 Object Orientation > Encapsulation > Movies (gabby-dusty-irate-stop) [Invited]
 wtc-lms review_details gabby-dusty-irate-stop
 wtc-lms accept gabby-dusty-irate-stop
 wtc-lms decline gabby-dusty-irate-stop
 
-Object Orientation > Encapsulation > Explorer Bot 1 (neat-thin-tense-hate) [ReviewLimitReached]
-wtc-lms review_details neat-thin-tense-hate
-
-Object Orientation > Encapsulation > Explorer Bot 1 (steep-foamy-meek-cup) [ReviewLimitReached]
-wtc-lms review_details steep-foamy-meek-cup
-
 Object Orientation > Encapsulation > Movies (safe-witty-salty-share) [Invited]
 wtc-lms review_details safe-witty-salty-share
 wtc-lms accept safe-witty-salty-share
 wtc-lms decline safe-witty-salty-share
-
-Object Orientation > Encapsulation > Explorer Bot 1 (erect-rural-husky-glove) [ReviewLimitReached]
-wtc-lms review_details erect-rural-husky-glove
 
 Fundamentals > Don't Panic > Trollhunter - Fix the Bugs (giant-round-cut-milk) [Invited]
 wtc-lms review_details giant-round-cut-milk
 wtc-lms accept giant-round-cut-milk
 wtc-lms decline giant-round-cut-milk
 
-Object Orientation > Encapsulation > Explorer Bot 1 (sable-stale-tight-suit) [ReviewLimitReached]
-wtc-lms review_details sable-stale-tight-suit
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nosy-husky-goofy-paper) [ReviewLimitReached]
-wtc-lms review_details nosy-husky-goofy-paper
-
-Object Orientation > Encapsulation > Explorer Bot 1 (fixed-chief-pink-fill) [ReviewLimitReached]
-wtc-lms review_details fixed-chief-pink-fill
-
 Object Orientation > Encapsulation > Car Iteration 1 (dead-hard-woozy-chest) [Invited]
 wtc-lms review_details dead-hard-woozy-chest
 wtc-lms accept dead-hard-woozy-chest
 wtc-lms decline dead-hard-woozy-chest
-
-Object Orientation > Encapsulation > Explorer Bot 1 (half-soggy-kind-hello) [ReviewLimitReached]
-wtc-lms review_details half-soggy-kind-hello
 
 Object Orientation > Encapsulation > Movies (sick-lazy-mere-many) [Invited]
 wtc-lms review_details sick-lazy-mere-many
@@ -19527,1476 +18546,20 @@ wtc-lms review_details handy-tame-drab-read
 wtc-lms accept handy-tame-drab-read
 wtc-lms decline handy-tame-drab-read
 
-Object Orientation > Encapsulation > Explorer Bot 1 (ajar-ten-rapid-heart) [ReviewLimitReached]
-wtc-lms review_details ajar-ten-rapid-heart
-
 Object Orientation > Encapsulation > Person Iteration 1 (near-deep-last-mood) [Invited]
 wtc-lms review_details near-deep-last-mood
 wtc-lms accept near-deep-last-mood
 wtc-lms decline near-deep-last-mood
-
-Object Orientation > Encapsulation > Explorer Bot 1 (ahead-vague-fresh-sir) [ReviewLimitReached]
-wtc-lms review_details ahead-vague-fresh-sir
-
-Object Orientation > Polymorphism > Toy Robot Example (dull-next-broad-week) [Invited]
-wtc-lms review_details dull-next-broad-week
-wtc-lms accept dull-next-broad-week
-wtc-lms decline dull-next-broad-week
-
-Object Orientation > Polymorphism > Toy Robot Example (oval-meek-few-egg) [Invited]
-wtc-lms review_details oval-meek-few-egg
-wtc-lms accept oval-meek-few-egg
-wtc-lms decline oval-meek-few-egg
-
-Object Orientation > Polymorphism > Toy Robot Example (trite-tight-hard-sweet) [Invited]
-wtc-lms review_details trite-tight-hard-sweet
-wtc-lms accept trite-tight-hard-sweet
-wtc-lms decline trite-tight-hard-sweet
-
-Object Orientation > Polymorphism > Toy Robot Example (brash-dizzy-black-swing) [Invited]
-wtc-lms review_details brash-dizzy-black-swing
-wtc-lms accept brash-dizzy-black-swing
-wtc-lms decline brash-dizzy-black-swing
-
-Object Orientation > Polymorphism > Toy Robot Example (yummy-yummy-aback-go) [Invited]
-wtc-lms review_details yummy-yummy-aback-go
-wtc-lms accept yummy-yummy-aback-go
-wtc-lms decline yummy-yummy-aback-go
-
-Object Orientation > Polymorphism > Toy Robot Example (jaded-big-super-model) [Invited]
-wtc-lms review_details jaded-big-super-model
-wtc-lms accept jaded-big-super-model
-wtc-lms decline jaded-big-super-model
-
-Object Orientation > Polymorphism > Toy Robot Example (tacky-bored-aloof-view) [Invited]
-wtc-lms review_details tacky-bored-aloof-view
-wtc-lms accept tacky-bored-aloof-view
-wtc-lms decline tacky-bored-aloof-view
-
-Object Orientation > Polymorphism > Toy Robot Example (grey-high-true-limit) [Invited]
-wtc-lms review_details grey-high-true-limit
-wtc-lms accept grey-high-true-limit
-wtc-lms decline grey-high-true-limit
-
-Object Orientation > Polymorphism > Toy Robot Example (mean-ill-alive-hire) [Invited]
-wtc-lms review_details mean-ill-alive-hire
-wtc-lms accept mean-ill-alive-hire
-wtc-lms decline mean-ill-alive-hire
-
-Object Orientation > Polymorphism > Toy Robot Example (wild-awful-red-value) [Invited]
-wtc-lms review_details wild-awful-red-value
-wtc-lms accept wild-awful-red-value
-wtc-lms decline wild-awful-red-value
-
-Object Orientation > Polymorphism > Toy Robot Example (puny-drunk-jaded-life) [Invited]
-wtc-lms review_details puny-drunk-jaded-life
-wtc-lms accept puny-drunk-jaded-life
-wtc-lms decline puny-drunk-jaded-life
-
-Object Orientation > Polymorphism > Toy Robot Example (weak-ill-meaty-wall) [Invited]
-wtc-lms review_details weak-ill-meaty-wall
-wtc-lms accept weak-ill-meaty-wall
-wtc-lms decline weak-ill-meaty-wall
-
-Object Orientation > Polymorphism > Toy Robot Example (meaty-cold-thin-tea) [Invited]
-wtc-lms review_details meaty-cold-thin-tea
-wtc-lms accept meaty-cold-thin-tea
-wtc-lms decline meaty-cold-thin-tea
-
-Object Orientation > Polymorphism > Toy Robot Example (ripe-nasty-jumpy-lunch) [Invited]
-wtc-lms review_details ripe-nasty-jumpy-lunch
-wtc-lms accept ripe-nasty-jumpy-lunch
-wtc-lms decline ripe-nasty-jumpy-lunch
-
-Object Orientation > Polymorphism > Toy Robot Example (tangy-ultra-brash-piano) [Invited]
-wtc-lms review_details tangy-ultra-brash-piano
-wtc-lms accept tangy-ultra-brash-piano
-wtc-lms decline tangy-ultra-brash-piano
-
-Object Orientation > Polymorphism > Toy Robot Example (long-tacky-yummy-plan) [Invited]
-wtc-lms review_details long-tacky-yummy-plan
-wtc-lms accept long-tacky-yummy-plan
-wtc-lms decline long-tacky-yummy-plan
-
-Object Orientation > Polymorphism > Toy Robot Example (giddy-sour-daffy-bid) [Invited]
-wtc-lms review_details giddy-sour-daffy-bid
-wtc-lms accept giddy-sour-daffy-bid
-wtc-lms decline giddy-sour-daffy-bid
-
-Object Orientation > Polymorphism > Toy Robot Example (ritzy-acid-eager-top) [Invited]
-wtc-lms review_details ritzy-acid-eager-top
-wtc-lms accept ritzy-acid-eager-top
-wtc-lms decline ritzy-acid-eager-top
-
-Object Orientation > Polymorphism > Toy Robot Example (lame-tart-round-tea) [Invited]
-wtc-lms review_details lame-tart-round-tea
-wtc-lms accept lame-tart-round-tea
-wtc-lms decline lame-tart-round-tea
-
-Object Orientation > Polymorphism > Toy Robot Example (thick-murky-last-tip) [Invited]
-wtc-lms review_details thick-murky-last-tip
-wtc-lms accept thick-murky-last-tip
-wtc-lms decline thick-murky-last-tip
-
-Object Orientation > Polymorphism > Toy Robot Example (faded-slimy-rare-quiet) [Invited]
-wtc-lms review_details faded-slimy-rare-quiet
-wtc-lms accept faded-slimy-rare-quiet
-wtc-lms decline faded-slimy-rare-quiet
-
-Object Orientation > Polymorphism > Toy Robot Example (wrong-hot-one-save) [Invited]
-wtc-lms review_details wrong-hot-one-save
-wtc-lms accept wrong-hot-one-save
-wtc-lms decline wrong-hot-one-save
-
-Object Orientation > Polymorphism > Toy Robot Example (grey-puny-super-tip) [Invited]
-wtc-lms review_details grey-puny-super-tip
-wtc-lms accept grey-puny-super-tip
-wtc-lms decline grey-puny-super-tip
-
-Object Orientation > Polymorphism > Toy Robot Example (hurt-goofy-lean-poem) [Invited]
-wtc-lms review_details hurt-goofy-lean-poem
-wtc-lms accept hurt-goofy-lean-poem
-wtc-lms decline hurt-goofy-lean-poem
-
-Object Orientation > Polymorphism > Toy Robot Example (zippy-cute-fast-win) [Invited]
-wtc-lms review_details zippy-cute-fast-win
-wtc-lms accept zippy-cute-fast-win
-wtc-lms decline zippy-cute-fast-win
-
-Object Orientation > Polymorphism > Toy Robot Example (shaky-tired-naive-hurry) [Invited]
-wtc-lms review_details shaky-tired-naive-hurry
-wtc-lms accept shaky-tired-naive-hurry
-wtc-lms decline shaky-tired-naive-hurry
-
-Object Orientation > Polymorphism > Toy Robot Example (new-nappy-roomy-hotel) [Invited]
-wtc-lms review_details new-nappy-roomy-hotel
-wtc-lms accept new-nappy-roomy-hotel
-wtc-lms decline new-nappy-roomy-hotel
-
-Object Orientation > Polymorphism > Toy Robot Example (sweet-flaky-old-while) [Invited]
-wtc-lms review_details sweet-flaky-old-while
-wtc-lms accept sweet-flaky-old-while
-wtc-lms decline sweet-flaky-old-while
-
-Object Orientation > Polymorphism > Toy Robot Example (erect-juicy-daily-way) [Invited]
-wtc-lms review_details erect-juicy-daily-way
-wtc-lms accept erect-juicy-daily-way
-wtc-lms decline erect-juicy-daily-way
-
-Object Orientation > Polymorphism > Toy Robot Example (light-lowly-trite-black) [Invited]
-wtc-lms review_details light-lowly-trite-black
-wtc-lms accept light-lowly-trite-black
-wtc-lms decline light-lowly-trite-black
-
-Object Orientation > Polymorphism > Toy Robot Example (tan-quiet-dry-data) [Invited]
-wtc-lms review_details tan-quiet-dry-data
-wtc-lms accept tan-quiet-dry-data
-wtc-lms decline tan-quiet-dry-data
-
-Object Orientation > Polymorphism > Toy Robot Example (scary-brown-near-push) [Invited]
-wtc-lms review_details scary-brown-near-push
-wtc-lms accept scary-brown-near-push
-wtc-lms decline scary-brown-near-push
-
-Object Orientation > Polymorphism > Toy Robot Example (shiny-chief-poor-actor) [Invited]
-wtc-lms review_details shiny-chief-poor-actor
-wtc-lms accept shiny-chief-poor-actor
-wtc-lms decline shiny-chief-poor-actor
-
-Object Orientation > Polymorphism > Toy Robot Example (white-tense-dusty-queen) [Invited]
-wtc-lms review_details white-tense-dusty-queen
-wtc-lms accept white-tense-dusty-queen
-wtc-lms decline white-tense-dusty-queen
-
-Object Orientation > Polymorphism > Toy Robot Example (tight-cool-loose-chip) [Invited]
-wtc-lms review_details tight-cool-loose-chip
-wtc-lms accept tight-cool-loose-chip
-wtc-lms decline tight-cool-loose-chip
-
-Object Orientation > Polymorphism > Toy Robot Example (safe-alike-big-face) [Invited]
-wtc-lms review_details safe-alike-big-face
-wtc-lms accept safe-alike-big-face
-wtc-lms decline safe-alike-big-face
-
-Object Orientation > Polymorphism > Toy Robot Example (tight-tan-tart-event) [Invited]
-wtc-lms review_details tight-tan-tart-event
-wtc-lms accept tight-tan-tart-event
-wtc-lms decline tight-tan-tart-event
-
-Object Orientation > Polymorphism > Toy Robot Example (aback-huge-teeny-sweet) [Invited]
-wtc-lms review_details aback-huge-teeny-sweet
-wtc-lms accept aback-huge-teeny-sweet
-wtc-lms decline aback-huge-teeny-sweet
-
-Object Orientation > Polymorphism > Toy Robot Example (silky-milky-alert-union) [Invited]
-wtc-lms review_details silky-milky-alert-union
-wtc-lms accept silky-milky-alert-union
-wtc-lms decline silky-milky-alert-union
-
-Object Orientation > Polymorphism > Toy Robot Example (nutty-hot-calm-world) [Invited]
-wtc-lms review_details nutty-hot-calm-world
-wtc-lms accept nutty-hot-calm-world
-wtc-lms decline nutty-hot-calm-world
-
-Object Orientation > Polymorphism > Toy Robot Example (aback-dry-early-joke) [Invited]
-wtc-lms review_details aback-dry-early-joke
-wtc-lms accept aback-dry-early-joke
-wtc-lms decline aback-dry-early-joke
-
-Object Orientation > Polymorphism > Toy Robot Example (keen-huge-swift-call) [Invited]
-wtc-lms review_details keen-huge-swift-call
-wtc-lms accept keen-huge-swift-call
-wtc-lms decline keen-huge-swift-call
-
-Object Orientation > Polymorphism > Toy Robot Example (wry-goofy-tall-ship) [Invited]
-wtc-lms review_details wry-goofy-tall-ship
-wtc-lms accept wry-goofy-tall-ship
-wtc-lms decline wry-goofy-tall-ship
-
-Object Orientation > Polymorphism > Toy Robot Example (lean-gamy-obese-area) [Invited]
-wtc-lms review_details lean-gamy-obese-area
-wtc-lms accept lean-gamy-obese-area
-wtc-lms decline lean-gamy-obese-area
-
-Object Orientation > Polymorphism > Toy Robot Example (quick-tangy-mute-lady) [Invited]
-wtc-lms review_details quick-tangy-mute-lady
-wtc-lms accept quick-tangy-mute-lady
-wtc-lms decline quick-tangy-mute-lady
-
-Object Orientation > Polymorphism > Toy Robot Example (cheap-rigid-hard-slide) [Invited]
-wtc-lms review_details cheap-rigid-hard-slide
-wtc-lms accept cheap-rigid-hard-slide
-wtc-lms decline cheap-rigid-hard-slide
-
-Object Orientation > Polymorphism > Toy Robot Example (cool-lush-half-drop) [Invited]
-wtc-lms review_details cool-lush-half-drop
-wtc-lms accept cool-lush-half-drop
-wtc-lms decline cool-lush-half-drop
-
-Object Orientation > Polymorphism > Toy Robot Example (fresh-ugly-godly-heavy) [Invited]
-wtc-lms review_details fresh-ugly-godly-heavy
-wtc-lms accept fresh-ugly-godly-heavy
-wtc-lms decline fresh-ugly-godly-heavy
-
-Object Orientation > Polymorphism > Toy Robot Example (like-sassy-early-virus) [Invited]
-wtc-lms review_details like-sassy-early-virus
-wtc-lms accept like-sassy-early-virus
-wtc-lms decline like-sassy-early-virus
-
-Object Orientation > Polymorphism > Toy Robot Example (nifty-ready-nifty-fix) [Invited]
-wtc-lms review_details nifty-ready-nifty-fix
-wtc-lms accept nifty-ready-nifty-fix
-wtc-lms decline nifty-ready-nifty-fix
-
-Object Orientation > Polymorphism > Toy Robot Example (clear-full-hurt-make) [Invited]
-wtc-lms review_details clear-full-hurt-make
-wtc-lms accept clear-full-hurt-make
-wtc-lms decline clear-full-hurt-make
-
-Object Orientation > Polymorphism > Toy Robot Example (cheap-low-husky-brain) [Invited]
-wtc-lms review_details cheap-low-husky-brain
-wtc-lms accept cheap-low-husky-brain
-wtc-lms decline cheap-low-husky-brain
-
-Object Orientation > Polymorphism > Toy Robot Example (calm-lean-harsh-guide) [Invited]
-wtc-lms review_details calm-lean-harsh-guide
-wtc-lms accept calm-lean-harsh-guide
-wtc-lms decline calm-lean-harsh-guide
-
-Object Orientation > Polymorphism > Toy Robot Example (tiny-raspy-four-score) [Invited]
-wtc-lms review_details tiny-raspy-four-score
-wtc-lms accept tiny-raspy-four-score
-wtc-lms decline tiny-raspy-four-score
-
-Object Orientation > Polymorphism > Toy Robot Example (male-solid-cute-shift) [Invited]
-wtc-lms review_details male-solid-cute-shift
-wtc-lms accept male-solid-cute-shift
-wtc-lms decline male-solid-cute-shift
-
-Object Orientation > Polymorphism > Toy Robot Example (funny-alive-silly-click) [Invited]
-wtc-lms review_details funny-alive-silly-click
-wtc-lms accept funny-alive-silly-click
-wtc-lms decline funny-alive-silly-click
-
-Object Orientation > Polymorphism > Toy Robot Example (shaky-dry-tacky-area) [Invited]
-wtc-lms review_details shaky-dry-tacky-area
-wtc-lms accept shaky-dry-tacky-area
-wtc-lms decline shaky-dry-tacky-area
-
-Object Orientation > Polymorphism > Toy Robot Example (easy-vast-irate-song) [Invited]
-wtc-lms review_details easy-vast-irate-song
-wtc-lms accept easy-vast-irate-song
-wtc-lms decline easy-vast-irate-song
-
-Object Orientation > Polymorphism > Toy Robot Example (windy-ruddy-lumpy-head) [Invited]
-wtc-lms review_details windy-ruddy-lumpy-head
-wtc-lms accept windy-ruddy-lumpy-head
-wtc-lms decline windy-ruddy-lumpy-head
-
-Object Orientation > Polymorphism > Toy Robot Example (short-sore-angry-water) [Invited]
-wtc-lms review_details short-sore-angry-water
-wtc-lms accept short-sore-angry-water
-wtc-lms decline short-sore-angry-water
-
-Object Orientation > Polymorphism > Toy Robot Example (weak-free-daffy-devil) [Invited]
-wtc-lms review_details weak-free-daffy-devil
-wtc-lms accept weak-free-daffy-devil
-wtc-lms decline weak-free-daffy-devil
-
-Object Orientation > Polymorphism > Toy Robot Example (spiky-nosy-milky-split) [Invited]
-wtc-lms review_details spiky-nosy-milky-split
-wtc-lms accept spiky-nosy-milky-split
-wtc-lms decline spiky-nosy-milky-split
-
-Object Orientation > Polymorphism > Toy Robot Example (black-sweet-dusty-lead) [Invited]
-wtc-lms review_details black-sweet-dusty-lead
-wtc-lms accept black-sweet-dusty-lead
-wtc-lms decline black-sweet-dusty-lead
-
-Object Orientation > Polymorphism > Toy Robot Example (godly-testy-stale-pie) [Invited]
-wtc-lms review_details godly-testy-stale-pie
-wtc-lms accept godly-testy-stale-pie
-wtc-lms decline godly-testy-stale-pie
-
-Object Orientation > Polymorphism > Toy Robot Example (brave-silky-six-water) [Invited]
-wtc-lms review_details brave-silky-six-water
-wtc-lms accept brave-silky-six-water
-wtc-lms decline brave-silky-six-water
-
-Object Orientation > Polymorphism > Toy Robot Example (mere-testy-shut-hour) [Invited]
-wtc-lms review_details mere-testy-shut-hour
-wtc-lms accept mere-testy-shut-hour
-wtc-lms decline mere-testy-shut-hour
-
-Object Orientation > Polymorphism > Toy Robot Example (dark-silky-wary-male) [Invited]
-wtc-lms review_details dark-silky-wary-male
-wtc-lms accept dark-silky-wary-male
-wtc-lms decline dark-silky-wary-male
-
-Object Orientation > Polymorphism > Toy Robot Example (alike-nutty-stale-cream) [Invited]
-wtc-lms review_details alike-nutty-stale-cream
-wtc-lms accept alike-nutty-stale-cream
-wtc-lms decline alike-nutty-stale-cream
-
-Object Orientation > Polymorphism > Toy Robot Example (super-heavy-cruel-pie) [Invited]
-wtc-lms review_details super-heavy-cruel-pie
-wtc-lms accept super-heavy-cruel-pie
-wtc-lms decline super-heavy-cruel-pie
-
-Object Orientation > Polymorphism > Toy Robot Example (hurt-slimy-left-two) [Invited]
-wtc-lms review_details hurt-slimy-left-two
-wtc-lms accept hurt-slimy-left-two
-wtc-lms decline hurt-slimy-left-two
-
-Object Orientation > Polymorphism > Toy Robot Example (bumpy-oval-white-being) [Invited]
-wtc-lms review_details bumpy-oval-white-being
-wtc-lms accept bumpy-oval-white-being
-wtc-lms decline bumpy-oval-white-being
-
-Object Orientation > Polymorphism > Toy Robot Example (dusty-elfin-blue-soft) [Invited]
-wtc-lms review_details dusty-elfin-blue-soft
-wtc-lms accept dusty-elfin-blue-soft
-wtc-lms decline dusty-elfin-blue-soft
-
-Object Orientation > Polymorphism > Toy Robot Example (tight-big-foamy-wish) [Invited]
-wtc-lms review_details tight-big-foamy-wish
-wtc-lms accept tight-big-foamy-wish
-wtc-lms decline tight-big-foamy-wish
-
-Object Orientation > Polymorphism > Toy Robot Example (bent-sour-bored-seat) [Invited]
-wtc-lms review_details bent-sour-bored-seat
-wtc-lms accept bent-sour-bored-seat
-wtc-lms decline bent-sour-bored-seat
-
-Object Orientation > Polymorphism > Toy Robot Example (stale-black-tame-set) [Invited]
-wtc-lms review_details stale-black-tame-set
-wtc-lms accept stale-black-tame-set
-wtc-lms decline stale-black-tame-set
-
-Object Orientation > Polymorphism > Toy Robot Example (high-lucky-furry-focus) [Invited]
-wtc-lms review_details high-lucky-furry-focus
-wtc-lms accept high-lucky-furry-focus
-wtc-lms decline high-lucky-furry-focus
-
-Object Orientation > Polymorphism > Toy Robot Example (testy-ugly-tidy-boot) [Invited]
-wtc-lms review_details testy-ugly-tidy-boot
-wtc-lms accept testy-ugly-tidy-boot
-wtc-lms decline testy-ugly-tidy-boot
-
-Object Orientation > Polymorphism > Toy Robot Example (tame-curvy-misty-neat) [Invited]
-wtc-lms review_details tame-curvy-misty-neat
-wtc-lms accept tame-curvy-misty-neat
-wtc-lms decline tame-curvy-misty-neat
-
-Object Orientation > Polymorphism > Toy Robot Example (rabid-royal-testy-mine) [Invited]
-wtc-lms review_details rabid-royal-testy-mine
-wtc-lms accept rabid-royal-testy-mine
-wtc-lms decline rabid-royal-testy-mine
-
-Object Orientation > Polymorphism > Toy Robot Example (madly-brief-godly-lay) [Invited]
-wtc-lms review_details madly-brief-godly-lay
-wtc-lms accept madly-brief-godly-lay
-wtc-lms decline madly-brief-godly-lay
-
-Object Orientation > Polymorphism > Toy Robot Example (wacky-swift-trite-rent) [Invited]
-wtc-lms review_details wacky-swift-trite-rent
-wtc-lms accept wacky-swift-trite-rent
-wtc-lms decline wacky-swift-trite-rent
-
-Object Orientation > Polymorphism > Toy Robot Example (messy-curly-zany-fly) [Invited]
-wtc-lms review_details messy-curly-zany-fly
-wtc-lms accept messy-curly-zany-fly
-wtc-lms decline messy-curly-zany-fly
-
-Object Orientation > Polymorphism > Toy Robot Example (heady-broad-scary-bug) [Invited]
-wtc-lms review_details heady-broad-scary-bug
-wtc-lms accept heady-broad-scary-bug
-wtc-lms decline heady-broad-scary-bug
-
-Object Orientation > Polymorphism > Toy Robot Example (alike-quiet-wacky-feed) [Invited]
-wtc-lms review_details alike-quiet-wacky-feed
-wtc-lms accept alike-quiet-wacky-feed
-wtc-lms decline alike-quiet-wacky-feed
-
-Object Orientation > Polymorphism > Toy Robot Example (high-mean-open-town) [Invited]
-wtc-lms review_details high-mean-open-town
-wtc-lms accept high-mean-open-town
-wtc-lms decline high-mean-open-town
-
-Object Orientation > Polymorphism > Toy Robot Example (amuck-godly-two-grand) [Invited]
-wtc-lms review_details amuck-godly-two-grand
-wtc-lms accept amuck-godly-two-grand
-wtc-lms decline amuck-godly-two-grand
-
-Object Orientation > Polymorphism > Toy Robot Example (murky-furry-sore-row) [Invited]
-wtc-lms review_details murky-furry-sore-row
-wtc-lms accept murky-furry-sore-row
-wtc-lms decline murky-furry-sore-row
-
-Object Orientation > Polymorphism > Toy Robot Example (utter-juicy-dark-tooth) [Invited]
-wtc-lms review_details utter-juicy-dark-tooth
-wtc-lms accept utter-juicy-dark-tooth
-wtc-lms decline utter-juicy-dark-tooth
-
-Object Orientation > Polymorphism > Toy Robot Example (awake-aback-icky-back) [Invited]
-wtc-lms review_details awake-aback-icky-back
-wtc-lms accept awake-aback-icky-back
-wtc-lms decline awake-aback-icky-back
-
-Object Orientation > Polymorphism > Toy Robot Example (rude-obese-zippy-still) [Invited]
-wtc-lms review_details rude-obese-zippy-still
-wtc-lms accept rude-obese-zippy-still
-wtc-lms decline rude-obese-zippy-still
-
-Object Orientation > Polymorphism > Toy Robot Example (nine-hot-near-god) [Invited]
-wtc-lms review_details nine-hot-near-god
-wtc-lms accept nine-hot-near-god
-wtc-lms decline nine-hot-near-god
-
-Object Orientation > Polymorphism > Toy Robot Example (messy-lucky-amuck-keep) [Invited]
-wtc-lms review_details messy-lucky-amuck-keep
-wtc-lms accept messy-lucky-amuck-keep
-wtc-lms decline messy-lucky-amuck-keep
-
-Object Orientation > Polymorphism > Toy Robot Example (left-ruddy-jolly-layer) [Invited]
-wtc-lms review_details left-ruddy-jolly-layer
-wtc-lms accept left-ruddy-jolly-layer
-wtc-lms decline left-ruddy-jolly-layer
-
-Object Orientation > Polymorphism > Toy Robot Example (loud-blue-utter-drink) [Invited]
-wtc-lms review_details loud-blue-utter-drink
-wtc-lms accept loud-blue-utter-drink
-wtc-lms decline loud-blue-utter-drink
-
-Object Orientation > Polymorphism > Toy Robot Example (wacky-elite-ahead-raise) [Invited]
-wtc-lms review_details wacky-elite-ahead-raise
-wtc-lms accept wacky-elite-ahead-raise
-wtc-lms decline wacky-elite-ahead-raise
-
-Object Orientation > Polymorphism > Toy Robot Example (tacky-noisy-loose-host) [Invited]
-wtc-lms review_details tacky-noisy-loose-host
-wtc-lms accept tacky-noisy-loose-host
-wtc-lms decline tacky-noisy-loose-host
-
-Object Orientation > Polymorphism > Toy Robot Example (tight-nice-hot-tower) [Invited]
-wtc-lms review_details tight-nice-hot-tower
-wtc-lms accept tight-nice-hot-tower
-wtc-lms decline tight-nice-hot-tower
-
-Object Orientation > Polymorphism > Toy Robot Example (tart-level-ajar-kick) [Invited]
-wtc-lms review_details tart-level-ajar-kick
-wtc-lms accept tart-level-ajar-kick
-wtc-lms decline tart-level-ajar-kick
-
-Object Orientation > Polymorphism > Toy Robot Example (cold-crazy-brief-rise) [Invited]
-wtc-lms review_details cold-crazy-brief-rise
-wtc-lms accept cold-crazy-brief-rise
-wtc-lms decline cold-crazy-brief-rise
-
-Object Orientation > Polymorphism > Toy Robot Example (cut-messy-wide-break) [Invited]
-wtc-lms review_details cut-messy-wide-break
-wtc-lms accept cut-messy-wide-break
-wtc-lms decline cut-messy-wide-break
-
-Object Orientation > Polymorphism > Toy Robot Example (wide-icy-swift-map) [Invited]
-wtc-lms review_details wide-icy-swift-map
-wtc-lms accept wide-icy-swift-map
-wtc-lms decline wide-icy-swift-map
-
-Object Orientation > Polymorphism > Toy Robot Example (royal-four-mute-wait) [Invited]
-wtc-lms review_details royal-four-mute-wait
-wtc-lms accept royal-four-mute-wait
-wtc-lms decline royal-four-mute-wait
-
-Object Orientation > Polymorphism > Toy Robot Example (obese-young-whole-lake) [Invited]
-wtc-lms review_details obese-young-whole-lake
-wtc-lms accept obese-young-whole-lake
-wtc-lms decline obese-young-whole-lake
-
-Object Orientation > Polymorphism > Toy Robot Example (gamy-tart-eager-lock) [Invited]
-wtc-lms review_details gamy-tart-eager-lock
-wtc-lms accept gamy-tart-eager-lock
-wtc-lms decline gamy-tart-eager-lock
-
-Object Orientation > Polymorphism > Toy Robot Example (cruel-open-stale-court) [Invited]
-wtc-lms review_details cruel-open-stale-court
-wtc-lms accept cruel-open-stale-court
-wtc-lms decline cruel-open-stale-court
-
-Object Orientation > Polymorphism > Toy Robot Example (gaudy-far-last-peak) [Invited]
-wtc-lms review_details gaudy-far-last-peak
-wtc-lms accept gaudy-far-last-peak
-wtc-lms decline gaudy-far-last-peak
-
-Object Orientation > Polymorphism > Toy Robot Example (naive-mean-messy-goal) [Invited]
-wtc-lms review_details naive-mean-messy-goal
-wtc-lms accept naive-mean-messy-goal
-wtc-lms decline naive-mean-messy-goal
-
-Object Orientation > Polymorphism > Toy Robot Example (next-vast-tacit-black) [Invited]
-wtc-lms review_details next-vast-tacit-black
-wtc-lms accept next-vast-tacit-black
-wtc-lms decline next-vast-tacit-black
-
-Object Orientation > Polymorphism > Toy Robot Example (kind-jolly-ratty-lead) [Invited]
-wtc-lms review_details kind-jolly-ratty-lead
-wtc-lms accept kind-jolly-ratty-lead
-wtc-lms decline kind-jolly-ratty-lead
-
-Object Orientation > Polymorphism > Toy Robot Example (best-alert-cute-night) [Invited]
-wtc-lms review_details best-alert-cute-night
-wtc-lms accept best-alert-cute-night
-wtc-lms decline best-alert-cute-night
-
-Object Orientation > Polymorphism > Toy Robot Example (dry-testy-cold-loss) [Invited]
-wtc-lms review_details dry-testy-cold-loss
-wtc-lms accept dry-testy-cold-loss
-wtc-lms decline dry-testy-cold-loss
-
-Object Orientation > Polymorphism > Toy Robot Example (plant-windy-late-sense) [Invited]
-wtc-lms review_details plant-windy-late-sense
-wtc-lms accept plant-windy-late-sense
-wtc-lms decline plant-windy-late-sense
-
-Object Orientation > Polymorphism > Toy Robot Example (super-elite-jumpy-track) [Invited]
-wtc-lms review_details super-elite-jumpy-track
-wtc-lms accept super-elite-jumpy-track
-wtc-lms decline super-elite-jumpy-track
-
-Object Orientation > Polymorphism > Toy Robot Example (quack-rough-quick-exam) [Invited]
-wtc-lms review_details quack-rough-quick-exam
-wtc-lms accept quack-rough-quick-exam
-wtc-lms decline quack-rough-quick-exam
-
-Object Orientation > Polymorphism > Toy Robot Example (testy-wise-salty-owner) [Invited]
-wtc-lms review_details testy-wise-salty-owner
-wtc-lms accept testy-wise-salty-owner
-wtc-lms decline testy-wise-salty-owner
-
-Object Orientation > Polymorphism > Toy Robot Example (scary-noisy-trite-star) [Invited]
-wtc-lms review_details scary-noisy-trite-star
-wtc-lms accept scary-noisy-trite-star
-wtc-lms decline scary-noisy-trite-star
-
-Object Orientation > Polymorphism > Toy Robot Example (known-mixed-big-let) [Invited]
-wtc-lms review_details known-mixed-big-let
-wtc-lms accept known-mixed-big-let
-wtc-lms decline known-mixed-big-let
-
-Object Orientation > Polymorphism > Toy Robot Example (weak-bent-hard-big) [Invited]
-wtc-lms review_details weak-bent-hard-big
-wtc-lms accept weak-bent-hard-big
-wtc-lms decline weak-bent-hard-big
-
-Object Orientation > Polymorphism > Toy Robot Example (mere-aware-cheap-chain) [Invited]
-wtc-lms review_details mere-aware-cheap-chain
-wtc-lms accept mere-aware-cheap-chain
-wtc-lms decline mere-aware-cheap-chain
-
-Object Orientation > Polymorphism > Toy Robot Example (itchy-blue-three-lab) [Invited]
-wtc-lms review_details itchy-blue-three-lab
-wtc-lms accept itchy-blue-three-lab
-wtc-lms decline itchy-blue-three-lab
-
-Object Orientation > Polymorphism > Toy Robot Example (icky-level-angry-style) [Invited]
-wtc-lms review_details icky-level-angry-style
-wtc-lms accept icky-level-angry-style
-wtc-lms decline icky-level-angry-style
-
-Object Orientation > Polymorphism > Toy Robot Example (early-cold-murky-death) [Invited]
-wtc-lms review_details early-cold-murky-death
-wtc-lms accept early-cold-murky-death
-wtc-lms decline early-cold-murky-death
-
-Object Orientation > Polymorphism > Toy Robot Example (soft-level-red-screw) [Invited]
-wtc-lms review_details soft-level-red-screw
-wtc-lms accept soft-level-red-screw
-wtc-lms decline soft-level-red-screw
-
-Object Orientation > Polymorphism > Toy Robot Example (rebel-lying-pale-total) [Invited]
-wtc-lms review_details rebel-lying-pale-total
-wtc-lms accept rebel-lying-pale-total
-wtc-lms decline rebel-lying-pale-total
-
-Object Orientation > Polymorphism > Toy Robot Example (harsh-wry-ratty-rate) [Invited]
-wtc-lms review_details harsh-wry-ratty-rate
-wtc-lms accept harsh-wry-ratty-rate
-wtc-lms decline harsh-wry-ratty-rate
-
-Object Orientation > Polymorphism > Toy Robot Example (mushy-big-zesty-photo) [Invited]
-wtc-lms review_details mushy-big-zesty-photo
-wtc-lms accept mushy-big-zesty-photo
-wtc-lms decline mushy-big-zesty-photo
-
-Object Orientation > Polymorphism > Toy Robot Example (one-lean-murky-snow) [Invited]
-wtc-lms review_details one-lean-murky-snow
-wtc-lms accept one-lean-murky-snow
-wtc-lms decline one-lean-murky-snow
-
-Object Orientation > Polymorphism > Toy Robot Example (rainy-wide-sweet-belt) [Invited]
-wtc-lms review_details rainy-wide-sweet-belt
-wtc-lms accept rainy-wide-sweet-belt
-wtc-lms decline rainy-wide-sweet-belt
-
-Object Orientation > Polymorphism > Toy Robot Example (slim-fine-fine-hate) [Invited]
-wtc-lms review_details slim-fine-fine-hate
-wtc-lms accept slim-fine-fine-hate
-wtc-lms decline slim-fine-fine-hate
-
-Object Orientation > Polymorphism > Toy Robot Example (daily-warm-slimy-week) [Invited]
-wtc-lms review_details daily-warm-slimy-week
-wtc-lms accept daily-warm-slimy-week
-wtc-lms decline daily-warm-slimy-week
-
-Object Orientation > Polymorphism > Toy Robot Example (sore-tasty-faint-sand) [Invited]
-wtc-lms review_details sore-tasty-faint-sand
-wtc-lms accept sore-tasty-faint-sand
-wtc-lms decline sore-tasty-faint-sand
-
-Object Orientation > Polymorphism > Toy Robot Example (mere-smart-faint-might) [Invited]
-wtc-lms review_details mere-smart-faint-might
-wtc-lms accept mere-smart-faint-might
-wtc-lms decline mere-smart-faint-might
-
-Object Orientation > Polymorphism > Toy Robot Example (thick-half-thin-neck) [Invited]
-wtc-lms review_details thick-half-thin-neck
-wtc-lms accept thick-half-thin-neck
-wtc-lms decline thick-half-thin-neck
-
-Object Orientation > Polymorphism > Toy Robot Example (thick-testy-tame-twist) [Invited]
-wtc-lms review_details thick-testy-tame-twist
-wtc-lms accept thick-testy-tame-twist
-wtc-lms decline thick-testy-tame-twist
-
-Object Orientation > Polymorphism > Toy Robot Example (erect-aware-heady-prior) [Invited]
-wtc-lms review_details erect-aware-heady-prior
-wtc-lms accept erect-aware-heady-prior
-wtc-lms decline erect-aware-heady-prior
-
-Object Orientation > Polymorphism > Toy Robot Example (cold-old-dry-menu) [Invited]
-wtc-lms review_details cold-old-dry-menu
-wtc-lms accept cold-old-dry-menu
-wtc-lms decline cold-old-dry-menu
-
-Object Orientation > Polymorphism > Toy Robot Example (burly-gamy-cute-bench) [Invited]
-wtc-lms review_details burly-gamy-cute-bench
-wtc-lms accept burly-gamy-cute-bench
-wtc-lms decline burly-gamy-cute-bench
-
-Object Orientation > Polymorphism > Toy Robot Example (wide-whole-sweet-phone) [Invited]
-wtc-lms review_details wide-whole-sweet-phone
-wtc-lms accept wide-whole-sweet-phone
-wtc-lms decline wide-whole-sweet-phone
-
-Object Orientation > Polymorphism > Toy Robot Example (zesty-full-curvy-pound) [Invited]
-wtc-lms review_details zesty-full-curvy-pound
-wtc-lms accept zesty-full-curvy-pound
-wtc-lms decline zesty-full-curvy-pound
-
-Object Orientation > Polymorphism > Toy Robot Example (tart-rude-tough-fly) [Invited]
-wtc-lms review_details tart-rude-tough-fly
-wtc-lms accept tart-rude-tough-fly
-wtc-lms decline tart-rude-tough-fly
-
-Object Orientation > Polymorphism > Toy Robot Example (thin-bent-mushy-she) [Invited]
-wtc-lms review_details thin-bent-mushy-she
-wtc-lms accept thin-bent-mushy-she
-wtc-lms decline thin-bent-mushy-she
-
-Object Orientation > Polymorphism > Toy Robot Example (null-late-silky-roll) [Invited]
-wtc-lms review_details null-late-silky-roll
-wtc-lms accept null-late-silky-roll
-wtc-lms decline null-late-silky-roll
-
-Object Orientation > Polymorphism > Toy Robot Example (amuck-old-utter-set) [Invited]
-wtc-lms review_details amuck-old-utter-set
-wtc-lms accept amuck-old-utter-set
-wtc-lms decline amuck-old-utter-set
-
-Object Orientation > Polymorphism > Toy Robot Example (past-open-many-draft) [Invited]
-wtc-lms review_details past-open-many-draft
-wtc-lms accept past-open-many-draft
-wtc-lms decline past-open-many-draft
-
-Object Orientation > Polymorphism > Toy Robot Example (early-sable-spiky-thing) [Invited]
-wtc-lms review_details early-sable-spiky-thing
-wtc-lms accept early-sable-spiky-thing
-wtc-lms decline early-sable-spiky-thing
-
-Object Orientation > Polymorphism > Toy Robot Example (soft-dead-fresh-hole) [Invited]
-wtc-lms review_details soft-dead-fresh-hole
-wtc-lms accept soft-dead-fresh-hole
-wtc-lms decline soft-dead-fresh-hole
-
-Object Orientation > Polymorphism > Toy Robot Example (teeny-macho-gabby-spot) [Invited]
-wtc-lms review_details teeny-macho-gabby-spot
-wtc-lms accept teeny-macho-gabby-spot
-wtc-lms decline teeny-macho-gabby-spot
-
-Object Orientation > Polymorphism > Toy Robot Example (rabid-acid-legal-spite) [Invited]
-wtc-lms review_details rabid-acid-legal-spite
-wtc-lms accept rabid-acid-legal-spite
-wtc-lms decline rabid-acid-legal-spite
-
-Object Orientation > Polymorphism > Toy Robot Example (milky-spiky-awake-fold) [Invited]
-wtc-lms review_details milky-spiky-awake-fold
-wtc-lms accept milky-spiky-awake-fold
-wtc-lms decline milky-spiky-awake-fold
-
-Object Orientation > Polymorphism > Toy Robot Example (curly-minor-lean-music) [Invited]
-wtc-lms review_details curly-minor-lean-music
-wtc-lms accept curly-minor-lean-music
-wtc-lms decline curly-minor-lean-music
-
-Object Orientation > Polymorphism > Toy Robot Example (soft-nappy-easy-alarm) [Invited]
-wtc-lms review_details soft-nappy-easy-alarm
-wtc-lms accept soft-nappy-easy-alarm
-wtc-lms decline soft-nappy-easy-alarm
-
-Object Orientation > Polymorphism > Toy Robot Example (tan-elfin-overt-smile) [Invited]
-wtc-lms review_details tan-elfin-overt-smile
-wtc-lms accept tan-elfin-overt-smile
-wtc-lms decline tan-elfin-overt-smile
-
-Object Orientation > Polymorphism > Toy Robot Example (real-big-thin-gear) [Invited]
-wtc-lms review_details real-big-thin-gear
-wtc-lms accept real-big-thin-gear
-wtc-lms decline real-big-thin-gear
-
-Object Orientation > Polymorphism > Toy Robot Example (itchy-sad-hot-buddy) [Invited]
-wtc-lms review_details itchy-sad-hot-buddy
-wtc-lms accept itchy-sad-hot-buddy
-wtc-lms decline itchy-sad-hot-buddy
-
-Object Orientation > Polymorphism > Toy Robot Example (goofy-level-long-shirt) [Invited]
-wtc-lms review_details goofy-level-long-shirt
-wtc-lms accept goofy-level-long-shirt
-wtc-lms decline goofy-level-long-shirt
-
-Object Orientation > Polymorphism > Toy Robot Example (near-wiry-pink-hello) [Invited]
-wtc-lms review_details near-wiry-pink-hello
-wtc-lms accept near-wiry-pink-hello
-wtc-lms decline near-wiry-pink-hello
-
-Object Orientation > Polymorphism > Toy Robot Example (spicy-loose-pale-line) [Invited]
-wtc-lms review_details spicy-loose-pale-line
-wtc-lms accept spicy-loose-pale-line
-wtc-lms decline spicy-loose-pale-line
-
-Object Orientation > Polymorphism > Toy Robot Example (icy-cut-equal-lunch) [Invited]
-wtc-lms review_details icy-cut-equal-lunch
-wtc-lms accept icy-cut-equal-lunch
-wtc-lms decline icy-cut-equal-lunch
-
-Object Orientation > Polymorphism > Toy Robot Example (rude-sore-ripe-press) [Invited]
-wtc-lms review_details rude-sore-ripe-press
-wtc-lms accept rude-sore-ripe-press
-wtc-lms decline rude-sore-ripe-press
-
-Object Orientation > Polymorphism > Toy Robot Example (left-blue-trite-stand) [Invited]
-wtc-lms review_details left-blue-trite-stand
-wtc-lms accept left-blue-trite-stand
-wtc-lms decline left-blue-trite-stand
-
-Object Orientation > Polymorphism > Toy Robot Example (burly-sore-tan-neat) [Invited]
-wtc-lms review_details burly-sore-tan-neat
-wtc-lms accept burly-sore-tan-neat
-wtc-lms decline burly-sore-tan-neat
-
-Object Orientation > Polymorphism > Toy Robot Example (giddy-amuck-pushy-fly) [Invited]
-wtc-lms review_details giddy-amuck-pushy-fly
-wtc-lms accept giddy-amuck-pushy-fly
-wtc-lms decline giddy-amuck-pushy-fly
-
-Object Orientation > Polymorphism > Toy Robot Example (clean-dusty-lewd-lie) [Invited]
-wtc-lms review_details clean-dusty-lewd-lie
-wtc-lms accept clean-dusty-lewd-lie
-wtc-lms decline clean-dusty-lewd-lie
-
-Object Orientation > Polymorphism > Toy Robot Example (happy-lumpy-soggy-form) [Invited]
-wtc-lms review_details happy-lumpy-soggy-form
-wtc-lms accept happy-lumpy-soggy-form
-wtc-lms decline happy-lumpy-soggy-form
-
-Object Orientation > Polymorphism > Toy Robot Example (vast-open-few-hook) [Invited]
-wtc-lms review_details vast-open-few-hook
-wtc-lms accept vast-open-few-hook
-wtc-lms decline vast-open-few-hook
-
-Object Orientation > Polymorphism > Toy Robot Example (teeny-lame-messy-term) [Invited]
-wtc-lms review_details teeny-lame-messy-term
-wtc-lms accept teeny-lame-messy-term
-wtc-lms decline teeny-lame-messy-term
-
-Object Orientation > Polymorphism > Toy Robot Example (warm-mixed-soft-list) [Invited]
-wtc-lms review_details warm-mixed-soft-list
-wtc-lms accept warm-mixed-soft-list
-wtc-lms decline warm-mixed-soft-list
-
-Object Orientation > Polymorphism > Toy Robot Example (tense-bawdy-salty-test) [Invited]
-wtc-lms review_details tense-bawdy-salty-test
-wtc-lms accept tense-bawdy-salty-test
-wtc-lms decline tense-bawdy-salty-test
-
-Object Orientation > Polymorphism > Toy Robot Example (plant-last-calm-race) [Invited]
-wtc-lms review_details plant-last-calm-race
-wtc-lms accept plant-last-calm-race
-wtc-lms decline plant-last-calm-race
-
-Object Orientation > Polymorphism > Toy Robot Example (swift-handy-pale-half) [Invited]
-wtc-lms review_details swift-handy-pale-half
-wtc-lms accept swift-handy-pale-half
-wtc-lms decline swift-handy-pale-half
-
-Object Orientation > Polymorphism > Toy Robot Example (high-slow-silky-horse) [Invited]
-wtc-lms review_details high-slow-silky-horse
-wtc-lms accept high-slow-silky-horse
-wtc-lms decline high-slow-silky-horse
-
-Object Orientation > Polymorphism > Toy Robot Example (cagey-tasty-silky-car) [Invited]
-wtc-lms review_details cagey-tasty-silky-car
-wtc-lms accept cagey-tasty-silky-car
-wtc-lms decline cagey-tasty-silky-car
-
-Object Orientation > Polymorphism > Toy Robot Example (five-thin-giant-poem) [Invited]
-wtc-lms review_details five-thin-giant-poem
-wtc-lms accept five-thin-giant-poem
-wtc-lms decline five-thin-giant-poem
-
-Object Orientation > Polymorphism > Toy Robot Example (teeny-ill-heavy-house) [Invited]
-wtc-lms review_details teeny-ill-heavy-house
-wtc-lms accept teeny-ill-heavy-house
-wtc-lms decline teeny-ill-heavy-house
-
-Object Orientation > Polymorphism > Toy Robot Example (tense-gray-cool-level) [Invited]
-wtc-lms review_details tense-gray-cool-level
-wtc-lms accept tense-gray-cool-level
-wtc-lms decline tense-gray-cool-level
-
-Object Orientation > Polymorphism > Toy Robot Example (wet-ruddy-young-shine) [Invited]
-wtc-lms review_details wet-ruddy-young-shine
-wtc-lms accept wet-ruddy-young-shine
-wtc-lms decline wet-ruddy-young-shine
-
-Object Orientation > Polymorphism > Toy Robot Example (past-tan-thin-prior) [Invited]
-wtc-lms review_details past-tan-thin-prior
-wtc-lms accept past-tan-thin-prior
-wtc-lms decline past-tan-thin-prior
-
-Object Orientation > Polymorphism > Toy Robot Example (angry-zany-sable-plan) [Invited]
-wtc-lms review_details angry-zany-sable-plan
-wtc-lms accept angry-zany-sable-plan
-wtc-lms decline angry-zany-sable-plan
-
-Object Orientation > Polymorphism > Toy Robot Example (tough-bent-low-meet) [Invited]
-wtc-lms review_details tough-bent-low-meet
-wtc-lms accept tough-bent-low-meet
-wtc-lms decline tough-bent-low-meet
-
-Object Orientation > Polymorphism > Toy Robot Example (lame-light-needy-deep) [Invited]
-wtc-lms review_details lame-light-needy-deep
-wtc-lms accept lame-light-needy-deep
-wtc-lms decline lame-light-needy-deep
-
-Object Orientation > Polymorphism > Toy Robot Example (hard-nifty-dry-risk) [Invited]
-wtc-lms review_details hard-nifty-dry-risk
-wtc-lms accept hard-nifty-dry-risk
-wtc-lms decline hard-nifty-dry-risk
-
-Object Orientation > Polymorphism > Toy Robot Example (mushy-new-drunk-lift) [Invited]
-wtc-lms review_details mushy-new-drunk-lift
-wtc-lms accept mushy-new-drunk-lift
-wtc-lms decline mushy-new-drunk-lift
-
-Object Orientation > Polymorphism > Toy Robot Example (lying-past-legal-march) [Invited]
-wtc-lms review_details lying-past-legal-march
-wtc-lms accept lying-past-legal-march
-wtc-lms decline lying-past-legal-march
-
-Object Orientation > Polymorphism > Toy Robot Example (fast-half-macho-ride) [Invited]
-wtc-lms review_details fast-half-macho-ride
-wtc-lms accept fast-half-macho-ride
-wtc-lms decline fast-half-macho-ride
-
-Object Orientation > Polymorphism > Toy Robot Example (acid-sweet-white-towel) [Invited]
-wtc-lms review_details acid-sweet-white-towel
-wtc-lms accept acid-sweet-white-towel
-wtc-lms decline acid-sweet-white-towel
-
-Object Orientation > Polymorphism > Toy Robot Example (full-shy-tense-party) [Invited]
-wtc-lms review_details full-shy-tense-party
-wtc-lms accept full-shy-tense-party
-wtc-lms decline full-shy-tense-party
-
-Object Orientation > Polymorphism > Toy Robot Example (brave-sable-bumpy-tune) [Invited]
-wtc-lms review_details brave-sable-bumpy-tune
-wtc-lms accept brave-sable-bumpy-tune
-wtc-lms decline brave-sable-bumpy-tune
-
-Object Orientation > Polymorphism > Toy Robot Example (lucky-bent-ruddy-exam) [Invited]
-wtc-lms review_details lucky-bent-ruddy-exam
-wtc-lms accept lucky-bent-ruddy-exam
-wtc-lms decline lucky-bent-ruddy-exam
-
-Object Orientation > Polymorphism > Toy Robot Example (puffy-even-wide-way) [Invited]
-wtc-lms review_details puffy-even-wide-way
-wtc-lms accept puffy-even-wide-way
-wtc-lms decline puffy-even-wide-way
-
-Object Orientation > Polymorphism > Toy Robot Example (hard-nice-thin-plate) [Invited]
-wtc-lms review_details hard-nice-thin-plate
-wtc-lms accept hard-nice-thin-plate
-wtc-lms decline hard-nice-thin-plate
-
-Object Orientation > Polymorphism > Toy Robot Example (shiny-naive-wide-date) [Invited]
-wtc-lms review_details shiny-naive-wide-date
-wtc-lms accept shiny-naive-wide-date
-wtc-lms decline shiny-naive-wide-date
-
-Object Orientation > Polymorphism > Toy Robot Example (lowly-old-ugly-move) [Invited]
-wtc-lms review_details lowly-old-ugly-move
-wtc-lms accept lowly-old-ugly-move
-wtc-lms decline lowly-old-ugly-move
-
-Object Orientation > Polymorphism > Toy Robot Example (known-vast-awful-city) [Invited]
-wtc-lms review_details known-vast-awful-city
-wtc-lms accept known-vast-awful-city
-wtc-lms decline known-vast-awful-city
-
-Object Orientation > Polymorphism > Toy Robot Example (big-icy-fine-lake) [Invited]
-wtc-lms review_details big-icy-fine-lake
-wtc-lms accept big-icy-fine-lake
-wtc-lms decline big-icy-fine-lake
-
-Object Orientation > Polymorphism > Toy Robot Example (safe-lucky-tacky-tear) [Invited]
-wtc-lms review_details safe-lucky-tacky-tear
-wtc-lms accept safe-lucky-tacky-tear
-wtc-lms decline safe-lucky-tacky-tear
-
-Object Orientation > Polymorphism > Toy Robot Example (level-damp-far-range) [Invited]
-wtc-lms review_details level-damp-far-range
-wtc-lms accept level-damp-far-range
-wtc-lms decline level-damp-far-range
-
-Object Orientation > Polymorphism > Toy Robot Example (mixed-first-dead-hold) [Invited]
-wtc-lms review_details mixed-first-dead-hold
-wtc-lms accept mixed-first-dead-hold
-wtc-lms decline mixed-first-dead-hold
-
-Object Orientation > Polymorphism > Toy Robot Example (large-ready-fuzzy-band) [Invited]
-wtc-lms review_details large-ready-fuzzy-band
-wtc-lms accept large-ready-fuzzy-band
-wtc-lms decline large-ready-fuzzy-band
-
-Object Orientation > Polymorphism > Toy Robot Example (silly-needy-shut-cost) [Invited]
-wtc-lms review_details silly-needy-shut-cost
-wtc-lms accept silly-needy-shut-cost
-wtc-lms decline silly-needy-shut-cost
-
-Object Orientation > Polymorphism > Toy Robot Example (furry-ugly-sad-good) [Invited]
-wtc-lms review_details furry-ugly-sad-good
-wtc-lms accept furry-ugly-sad-good
-wtc-lms decline furry-ugly-sad-good
-
-Object Orientation > Polymorphism > Toy Robot Example (drab-moldy-nappy-march) [Invited]
-wtc-lms review_details drab-moldy-nappy-march
-wtc-lms accept drab-moldy-nappy-march
-wtc-lms decline drab-moldy-nappy-march
-
-Object Orientation > Polymorphism > Toy Robot Example (curly-furry-kaput-front) [Invited]
-wtc-lms review_details curly-furry-kaput-front
-wtc-lms accept curly-furry-kaput-front
-wtc-lms decline curly-furry-kaput-front
-
-Object Orientation > Polymorphism > Toy Robot Example (open-wet-harsh-state) [Invited]
-wtc-lms review_details open-wet-harsh-state
-wtc-lms accept open-wet-harsh-state
-wtc-lms decline open-wet-harsh-state
-
-Object Orientation > Polymorphism > Toy Robot Example (lowly-light-proud-still) [Invited]
-wtc-lms review_details lowly-light-proud-still
-wtc-lms accept lowly-light-proud-still
-wtc-lms decline lowly-light-proud-still
-
-Object Orientation > Polymorphism > Toy Robot Example (new-cool-level-sir) [Invited]
-wtc-lms review_details new-cool-level-sir
-wtc-lms accept new-cool-level-sir
-wtc-lms decline new-cool-level-sir
-
-Object Orientation > Polymorphism > Toy Robot Example (thin-slim-happy-heart) [Invited]
-wtc-lms review_details thin-slim-happy-heart
-wtc-lms accept thin-slim-happy-heart
-wtc-lms decline thin-slim-happy-heart
-
-Object Orientation > Polymorphism > Toy Robot Example (dirty-testy-quiet-laugh) [Invited]
-wtc-lms review_details dirty-testy-quiet-laugh
-wtc-lms accept dirty-testy-quiet-laugh
-wtc-lms decline dirty-testy-quiet-laugh
-
-Object Orientation > Polymorphism > Toy Robot Example (lying-jumpy-rough-cry) [Invited]
-wtc-lms review_details lying-jumpy-rough-cry
-wtc-lms accept lying-jumpy-rough-cry
-wtc-lms decline lying-jumpy-rough-cry
-
-Object Orientation > Polymorphism > Toy Robot Example (warm-sick-windy-web) [Invited]
-wtc-lms review_details warm-sick-windy-web
-wtc-lms accept warm-sick-windy-web
-wtc-lms decline warm-sick-windy-web
-
-Object Orientation > Polymorphism > Toy Robot Example (small-ruddy-daily-black) [Invited]
-wtc-lms review_details small-ruddy-daily-black
-wtc-lms accept small-ruddy-daily-black
-wtc-lms decline small-ruddy-daily-black
-
-Object Orientation > Polymorphism > Toy Robot Example (soft-fresh-damp-heart) [Invited]
-wtc-lms review_details soft-fresh-damp-heart
-wtc-lms accept soft-fresh-damp-heart
-wtc-lms decline soft-fresh-damp-heart
-
-Object Orientation > Polymorphism > Toy Robot Example (spiky-damp-deep-call) [Invited]
-wtc-lms review_details spiky-damp-deep-call
-wtc-lms accept spiky-damp-deep-call
-wtc-lms decline spiky-damp-deep-call
-
-Object Orientation > Polymorphism > Toy Robot Example (giant-shaky-lewd-joint) [Invited]
-wtc-lms review_details giant-shaky-lewd-joint
-wtc-lms accept giant-shaky-lewd-joint
-wtc-lms decline giant-shaky-lewd-joint
-
-Object Orientation > Polymorphism > Toy Robot Example (legal-wry-husky-form) [Invited]
-wtc-lms review_details legal-wry-husky-form
-wtc-lms accept legal-wry-husky-form
-wtc-lms decline legal-wry-husky-form
-
-Object Orientation > Polymorphism > Toy Robot Example (whole-tall-same-road) [Invited]
-wtc-lms review_details whole-tall-same-road
-wtc-lms accept whole-tall-same-road
-wtc-lms decline whole-tall-same-road
-
-Object Orientation > Polymorphism > Toy Robot Example (silky-round-kind-mom) [Invited]
-wtc-lms review_details silky-round-kind-mom
-wtc-lms accept silky-round-kind-mom
-wtc-lms decline silky-round-kind-mom
-
-Object Orientation > Polymorphism > Toy Robot Example (rapid-super-heady-joke) [Invited]
-wtc-lms review_details rapid-super-heady-joke
-wtc-lms accept rapid-super-heady-joke
-wtc-lms decline rapid-super-heady-joke
-
-Object Orientation > Polymorphism > Toy Robot Example (irate-zany-furry-city) [Invited]
-wtc-lms review_details irate-zany-furry-city
-wtc-lms accept irate-zany-furry-city
-wtc-lms decline irate-zany-furry-city
-
-Object Orientation > Polymorphism > Toy Robot Example (spicy-alive-tough-map) [Invited]
-wtc-lms review_details spicy-alive-tough-map
-wtc-lms accept spicy-alive-tough-map
-wtc-lms decline spicy-alive-tough-map
-
-Object Orientation > Polymorphism > Toy Robot Example (bawdy-fat-alive-crash) [Invited]
-wtc-lms review_details bawdy-fat-alive-crash
-wtc-lms accept bawdy-fat-alive-crash
-wtc-lms decline bawdy-fat-alive-crash
-
-Object Orientation > Polymorphism > Toy Robot Example (brash-fuzzy-weak-lab) [Invited]
-wtc-lms review_details brash-fuzzy-weak-lab
-wtc-lms accept brash-fuzzy-weak-lab
-wtc-lms decline brash-fuzzy-weak-lab
-
-Object Orientation > Polymorphism > Toy Robot Example (vague-meek-cute-age) [Invited]
-wtc-lms review_details vague-meek-cute-age
-wtc-lms accept vague-meek-cute-age
-wtc-lms decline vague-meek-cute-age
-
-Object Orientation > Polymorphism > Toy Robot Example (abaft-cut-funny-pop) [Invited]
-wtc-lms review_details abaft-cut-funny-pop
-wtc-lms accept abaft-cut-funny-pop
-wtc-lms decline abaft-cut-funny-pop
-
-Object Orientation > Polymorphism > Toy Robot Example (testy-cold-awake-pay) [Invited]
-wtc-lms review_details testy-cold-awake-pay
-wtc-lms accept testy-cold-awake-pay
-wtc-lms decline testy-cold-awake-pay
-
-Object Orientation > Polymorphism > Toy Robot Example (late-acrid-trite-iron) [Invited]
-wtc-lms review_details late-acrid-trite-iron
-wtc-lms accept late-acrid-trite-iron
-wtc-lms decline late-acrid-trite-iron
-
-Object Orientation > Polymorphism > Toy Robot Example (dark-zippy-sweet-shop) [Invited]
-wtc-lms review_details dark-zippy-sweet-shop
-wtc-lms accept dark-zippy-sweet-shop
-wtc-lms decline dark-zippy-sweet-shop
-
-Object Orientation > Polymorphism > Toy Robot Example (rapid-mushy-lewd-hurry) [Invited]
-wtc-lms review_details rapid-mushy-lewd-hurry
-wtc-lms accept rapid-mushy-lewd-hurry
-wtc-lms decline rapid-mushy-lewd-hurry
-
-Object Orientation > Polymorphism > Toy Robot Example (cool-zany-alike-male) [Invited]
-wtc-lms review_details cool-zany-alike-male
-wtc-lms accept cool-zany-alike-male
-wtc-lms decline cool-zany-alike-male
-
-Object Orientation > Polymorphism > Toy Robot Example (awful-neat-amuck-iron) [Invited]
-wtc-lms review_details awful-neat-amuck-iron
-wtc-lms accept awful-neat-amuck-iron
-wtc-lms decline awful-neat-amuck-iron
-
-Object Orientation > Polymorphism > Toy Robot Example (ugly-ajar-goofy-guard) [Invited]
-wtc-lms review_details ugly-ajar-goofy-guard
-wtc-lms accept ugly-ajar-goofy-guard
-wtc-lms decline ugly-ajar-goofy-guard
-
-Object Orientation > Polymorphism > Toy Robot Example (pushy-sweet-dusty-bath) [Invited]
-wtc-lms review_details pushy-sweet-dusty-bath
-wtc-lms accept pushy-sweet-dusty-bath
-wtc-lms decline pushy-sweet-dusty-bath
-
-Object Orientation > Polymorphism > Toy Robot Example (scary-godly-wary-union) [Invited]
-wtc-lms review_details scary-godly-wary-union
-wtc-lms accept scary-godly-wary-union
-wtc-lms decline scary-godly-wary-union
-
-Object Orientation > Polymorphism > Toy Robot Example (royal-next-hard-hang) [Invited]
-wtc-lms review_details royal-next-hard-hang
-wtc-lms accept royal-next-hard-hang
-wtc-lms decline royal-next-hard-hang
-
-Object Orientation > Polymorphism > Toy Robot Example (zippy-roomy-oval-side) [Invited]
-wtc-lms review_details zippy-roomy-oval-side
-wtc-lms accept zippy-roomy-oval-side
-wtc-lms decline zippy-roomy-oval-side
-
-Object Orientation > Polymorphism > Toy Robot Example (chief-husky-amuck-shake) [Invited]
-wtc-lms review_details chief-husky-amuck-shake
-wtc-lms accept chief-husky-amuck-shake
-wtc-lms decline chief-husky-amuck-shake
-
-Object Orientation > Polymorphism > Toy Robot Example (lush-meaty-rural-peace) [Invited]
-wtc-lms review_details lush-meaty-rural-peace
-wtc-lms accept lush-meaty-rural-peace
-wtc-lms decline lush-meaty-rural-peace
-
-Object Orientation > Polymorphism > Toy Robot Example (dry-tense-gray-use) [Invited]
-wtc-lms review_details dry-tense-gray-use
-wtc-lms accept dry-tense-gray-use
-wtc-lms decline dry-tense-gray-use
-
-Object Orientation > Polymorphism > Toy Robot Example (same-cute-thin-other) [Invited]
-wtc-lms review_details same-cute-thin-other
-wtc-lms accept same-cute-thin-other
-wtc-lms decline same-cute-thin-other
-
-Object Orientation > Polymorphism > Toy Robot Example (kind-rural-left-draw) [Invited]
-wtc-lms review_details kind-rural-left-draw
-wtc-lms accept kind-rural-left-draw
-wtc-lms decline kind-rural-left-draw
-
-Object Orientation > Polymorphism > Toy Robot Example (great-crazy-nappy-thing) [Invited]
-wtc-lms review_details great-crazy-nappy-thing
-wtc-lms accept great-crazy-nappy-thing
-wtc-lms decline great-crazy-nappy-thing
-
-Object Orientation > Polymorphism > Toy Robot Example (male-juicy-soft-band) [Invited]
-wtc-lms review_details male-juicy-soft-band
-wtc-lms accept male-juicy-soft-band
-wtc-lms decline male-juicy-soft-band
-
-Object Orientation > Polymorphism > Toy Robot Example (damp-zany-drunk-safe) [Invited]
-wtc-lms review_details damp-zany-drunk-safe
-wtc-lms accept damp-zany-drunk-safe
-wtc-lms decline damp-zany-drunk-safe
-
-Object Orientation > Polymorphism > Toy Robot Example (far-big-giddy-use) [Invited]
-wtc-lms review_details far-big-giddy-use
-wtc-lms accept far-big-giddy-use
-wtc-lms decline far-big-giddy-use
-
-Object Orientation > Polymorphism > Toy Robot Example (neat-brave-used-fire) [Invited]
-wtc-lms review_details neat-brave-used-fire
-wtc-lms accept neat-brave-used-fire
-wtc-lms decline neat-brave-used-fire
-
-Object Orientation > Polymorphism > Toy Robot Example (black-past-mixed-class) [Invited]
-wtc-lms review_details black-past-mixed-class
-wtc-lms accept black-past-mixed-class
-wtc-lms decline black-past-mixed-class
-
-Object Orientation > Polymorphism > Toy Robot Example (daily-tasty-elite-year) [Invited]
-wtc-lms review_details daily-tasty-elite-year
-wtc-lms accept daily-tasty-elite-year
-wtc-lms decline daily-tasty-elite-year
-
-Object Orientation > Polymorphism > Toy Robot Example (solid-cheap-slow-knee) [Invited]
-wtc-lms review_details solid-cheap-slow-knee
-wtc-lms accept solid-cheap-slow-knee
-wtc-lms decline solid-cheap-slow-knee
-
-Object Orientation > Polymorphism > Toy Robot Example (clean-royal-four-white) [Invited]
-wtc-lms review_details clean-royal-four-white
-wtc-lms accept clean-royal-four-white
-wtc-lms decline clean-royal-four-white
-
-Object Orientation > Polymorphism > Toy Robot Example (oval-calm-long-laugh) [Invited]
-wtc-lms review_details oval-calm-long-laugh
-wtc-lms accept oval-calm-long-laugh
-wtc-lms decline oval-calm-long-laugh
-
-Object Orientation > Polymorphism > Toy Robot Example (swift-late-hard-sea) [Invited]
-wtc-lms review_details swift-late-hard-sea
-wtc-lms accept swift-late-hard-sea
-wtc-lms decline swift-late-hard-sea
-
-Object Orientation > Polymorphism > Toy Robot Example (few-real-dusty-dark) [Invited]
-wtc-lms review_details few-real-dusty-dark
-wtc-lms accept few-real-dusty-dark
-wtc-lms decline few-real-dusty-dark
-
-Object Orientation > Polymorphism > Toy Robot Example (damp-dusty-roomy-owner) [Invited]
-wtc-lms review_details damp-dusty-roomy-owner
-wtc-lms accept damp-dusty-roomy-owner
-wtc-lms decline damp-dusty-roomy-owner
-
-Object Orientation > Polymorphism > Toy Robot Example (icy-same-pink-act) [Invited]
-wtc-lms review_details icy-same-pink-act
-wtc-lms accept icy-same-pink-act
-wtc-lms decline icy-same-pink-act
-
-Object Orientation > Polymorphism > Toy Robot Example (full-fresh-upset-shock) [Invited]
-wtc-lms review_details full-fresh-upset-shock
-wtc-lms accept full-fresh-upset-shock
-wtc-lms decline full-fresh-upset-shock
-
-Object Orientation > Polymorphism > Toy Robot Example (huge-rigid-clean-price) [Invited]
-wtc-lms review_details huge-rigid-clean-price
-wtc-lms accept huge-rigid-clean-price
-wtc-lms decline huge-rigid-clean-price
-
-Object Orientation > Polymorphism > Toy Robot Example (gamy-steep-heavy-press) [Invited]
-wtc-lms review_details gamy-steep-heavy-press
-wtc-lms accept gamy-steep-heavy-press
-wtc-lms decline gamy-steep-heavy-press
-
-Object Orientation > Polymorphism > Toy Robot Example (spicy-alive-past-click) [Invited]
-wtc-lms review_details spicy-alive-past-click
-wtc-lms accept spicy-alive-past-click
-wtc-lms decline spicy-alive-past-click
-
-Object Orientation > Polymorphism > Toy Robot Example (flaky-lewd-best-dirt) [Invited]
-wtc-lms review_details flaky-lewd-best-dirt
-wtc-lms accept flaky-lewd-best-dirt
-wtc-lms decline flaky-lewd-best-dirt
-
-Object Orientation > Polymorphism > Toy Robot Example (cheap-real-bored-ease) [Invited]
-wtc-lms review_details cheap-real-bored-ease
-wtc-lms accept cheap-real-bored-ease
-wtc-lms decline cheap-real-bored-ease
-
-Object Orientation > Polymorphism > Toy Robot Example (kaput-ratty-harsh-fold) [Invited]
-wtc-lms review_details kaput-ratty-harsh-fold
-wtc-lms accept kaput-ratty-harsh-fold
-wtc-lms decline kaput-ratty-harsh-fold
-
-Object Orientation > Polymorphism > Toy Robot Example (tacit-tart-raspy-beach) [Invited]
-wtc-lms review_details tacit-tart-raspy-beach
-wtc-lms accept tacit-tart-raspy-beach
-wtc-lms decline tacit-tart-raspy-beach
-
-Object Orientation > Polymorphism > Toy Robot Example (used-lean-brief-pass) [Invited]
-wtc-lms review_details used-lean-brief-pass
-wtc-lms accept used-lean-brief-pass
-wtc-lms decline used-lean-brief-pass
-
-Object Orientation > Polymorphism > Toy Robot Example (faint-lean-icy-kill) [Invited]
-wtc-lms review_details faint-lean-icy-kill
-wtc-lms accept faint-lean-icy-kill
-wtc-lms decline faint-lean-icy-kill
-
-Object Orientation > Polymorphism > Toy Robot Example (rabid-light-brown-name) [Invited]
-wtc-lms review_details rabid-light-brown-name
-wtc-lms accept rabid-light-brown-name
-wtc-lms decline rabid-light-brown-name
-
-Object Orientation > Polymorphism > Toy Robot Example (salty-giddy-black-month) [Invited]
-wtc-lms review_details salty-giddy-black-month
-wtc-lms accept salty-giddy-black-month
-wtc-lms decline salty-giddy-black-month
 
 Fundamentals > Modules & Packages > Accounting (long-huge-tidy-plant) [Invited]
 wtc-lms review_details long-huge-tidy-plant
 wtc-lms accept long-huge-tidy-plant
 wtc-lms decline long-huge-tidy-plant
 
-Object Orientation > Polymorphism > Toy Robot Example (able-wild-murky-watch) [Invited]
-wtc-lms review_details able-wild-murky-watch
-wtc-lms accept able-wild-murky-watch
-wtc-lms decline able-wild-murky-watch
-
-Object Orientation > Polymorphism > Toy Robot Example (many-godly-scary-disk) [Invited]
-wtc-lms review_details many-godly-scary-disk
-wtc-lms accept many-godly-scary-disk
-wtc-lms decline many-godly-scary-disk
-
-Object Orientation > Polymorphism > Toy Robot Example (tall-plant-sable-equal) [Invited]
-wtc-lms review_details tall-plant-sable-equal
-wtc-lms accept tall-plant-sable-equal
-wtc-lms decline tall-plant-sable-equal
-
-Object Orientation > Polymorphism > Toy Robot Example (rude-used-one-rush) [Invited]
-wtc-lms review_details rude-used-one-rush
-wtc-lms accept rude-used-one-rush
-wtc-lms decline rude-used-one-rush
-
-Object Orientation > Polymorphism > Toy Robot Example (misty-sharp-tart-white) [Invited]
-wtc-lms review_details misty-sharp-tart-white
-wtc-lms accept misty-sharp-tart-white
-wtc-lms decline misty-sharp-tart-white
-
-Object Orientation > Polymorphism > Toy Robot Example (rigid-trite-alive-poem) [Invited]
-wtc-lms review_details rigid-trite-alive-poem
-wtc-lms accept rigid-trite-alive-poem
-wtc-lms decline rigid-trite-alive-poem
-
-Object Orientation > Polymorphism > Toy Robot Example (tacky-mute-mean-art) [Invited]
-wtc-lms review_details tacky-mute-mean-art
-wtc-lms accept tacky-mute-mean-art
-wtc-lms decline tacky-mute-mean-art
-
-Object Orientation > Polymorphism > Toy Robot Example (lewd-windy-fuzzy-mouse) [Invited]
-wtc-lms review_details lewd-windy-fuzzy-mouse
-wtc-lms accept lewd-windy-fuzzy-mouse
-wtc-lms decline lewd-windy-fuzzy-mouse
-
-Object Orientation > Polymorphism > Toy Robot Example (angry-happy-loose-force) [Invited]
-wtc-lms review_details angry-happy-loose-force
-wtc-lms accept angry-happy-loose-force
-wtc-lms decline angry-happy-loose-force
-
-Object Orientation > Polymorphism > Toy Robot Example (wiry-harsh-amuck-game) [Invited]
-wtc-lms review_details wiry-harsh-amuck-game
-wtc-lms accept wiry-harsh-amuck-game
-wtc-lms decline wiry-harsh-amuck-game
-
-Object Orientation > Polymorphism > Toy Robot Example (frail-eager-dusty-love) [Invited]
-wtc-lms review_details frail-eager-dusty-love
-wtc-lms accept frail-eager-dusty-love
-wtc-lms decline frail-eager-dusty-love
-
-Object Orientation > Polymorphism > Toy Robot Example (false-half-funny-due) [Invited]
-wtc-lms review_details false-half-funny-due
-wtc-lms accept false-half-funny-due
-wtc-lms decline false-half-funny-due
-
-Object Orientation > Polymorphism > Toy Robot Example (angry-shy-stale-link) [Invited]
-wtc-lms review_details angry-shy-stale-link
-wtc-lms accept angry-shy-stale-link
-wtc-lms decline angry-shy-stale-link
-
-Object Orientation > Polymorphism > Toy Robot Example (deep-extra-silly-turn) [Invited]
-wtc-lms review_details deep-extra-silly-turn
-wtc-lms accept deep-extra-silly-turn
-wtc-lms decline deep-extra-silly-turn
-
-Object Orientation > Polymorphism > Toy Robot Example (tidy-rural-equal-solid) [Invited]
-wtc-lms review_details tidy-rural-equal-solid
-wtc-lms accept tidy-rural-equal-solid
-wtc-lms decline tidy-rural-equal-solid
-
-Object Orientation > Polymorphism > Toy Robot Example (aback-tense-daffy-quiet) [Invited]
-wtc-lms review_details aback-tense-daffy-quiet
-wtc-lms accept aback-tense-daffy-quiet
-wtc-lms decline aback-tense-daffy-quiet
-
-Object Orientation > Polymorphism > Toy Robot Example (salty-deep-lucky-fuel) [Invited]
-wtc-lms review_details salty-deep-lucky-fuel
-wtc-lms accept salty-deep-lucky-fuel
-wtc-lms decline salty-deep-lucky-fuel
-
-Object Orientation > Polymorphism > Toy Robot Example (daffy-tight-even-cloud) [Invited]
-wtc-lms review_details daffy-tight-even-cloud
-wtc-lms accept daffy-tight-even-cloud
-wtc-lms decline daffy-tight-even-cloud
-
-Object Orientation > Polymorphism > Toy Robot Example (big-damp-pale-video) [Invited]
-wtc-lms review_details big-damp-pale-video
-wtc-lms accept big-damp-pale-video
-wtc-lms decline big-damp-pale-video
-
-Object Orientation > Polymorphism > Toy Robot Example (harsh-shy-false-hall) [Invited]
-wtc-lms review_details harsh-shy-false-hall
-wtc-lms accept harsh-shy-false-hall
-wtc-lms decline harsh-shy-false-hall
-
-Object Orientation > Polymorphism > Toy Robot Example (three-pushy-great-steak) [Invited]
-wtc-lms review_details three-pushy-great-steak
-wtc-lms accept three-pushy-great-steak
-wtc-lms decline three-pushy-great-steak
-
-Object Orientation > Polymorphism > Toy Robot Example (windy-blue-two-buyer) [Invited]
-wtc-lms review_details windy-blue-two-buyer
-wtc-lms accept windy-blue-two-buyer
-wtc-lms decline windy-blue-two-buyer
-
-Object Orientation > Polymorphism > Toy Robot Example (sulky-ritzy-early-brush) [Invited]
-wtc-lms review_details sulky-ritzy-early-brush
-wtc-lms accept sulky-ritzy-early-brush
-wtc-lms decline sulky-ritzy-early-brush
-
-Object Orientation > Polymorphism > Toy Robot Example (deep-overt-thin-cover) [Invited]
-wtc-lms review_details deep-overt-thin-cover
-wtc-lms accept deep-overt-thin-cover
-wtc-lms decline deep-overt-thin-cover
-
 Object Orientation > Encapsulation > Person Iteration 3 (light-bored-faint-space) [Invited]
 wtc-lms review_details light-bored-faint-space
 wtc-lms accept light-bored-faint-space
 wtc-lms decline light-bored-faint-space
-
-Object Orientation > Polymorphism > Toy Robot Example (same-four-safe-wood) [Invited]
-wtc-lms review_details same-four-safe-wood
-wtc-lms accept same-four-safe-wood
-wtc-lms decline same-four-safe-wood
 
 Object Orientation > Encapsulation > Person Iteration 2 (bent-right-ready-foot) [Invited]
 wtc-lms review_details bent-right-ready-foot
@@ -21008,35 +18571,15 @@ wtc-lms review_details daffy-macho-far-trip
 wtc-lms accept daffy-macho-far-trip
 wtc-lms decline daffy-macho-far-trip
 
-Object Orientation > Polymorphism > Toy Robot Example (minor-vast-heavy-main) [Invited]
-wtc-lms review_details minor-vast-heavy-main
-wtc-lms accept minor-vast-heavy-main
-wtc-lms decline minor-vast-heavy-main
-
 Object Orientation > Encapsulation > Movies (whole-taboo-lowly-hang) [Invited]
 wtc-lms review_details whole-taboo-lowly-hang
 wtc-lms accept whole-taboo-lowly-hang
 wtc-lms decline whole-taboo-lowly-hang
 
-Object Orientation > Polymorphism > Toy Robot Example (gabby-nasty-ajar-give) [Invited]
-wtc-lms review_details gabby-nasty-ajar-give
-wtc-lms accept gabby-nasty-ajar-give
-wtc-lms decline gabby-nasty-ajar-give
-
-Object Orientation > Polymorphism > Toy Robot Example (roomy-dead-ugly-essay) [Invited]
-wtc-lms review_details roomy-dead-ugly-essay
-wtc-lms accept roomy-dead-ugly-essay
-wtc-lms decline roomy-dead-ugly-essay
-
 Object Orientation > Encapsulation > Person Iteration 3 (low-spicy-oval-theme) [Invited]
 wtc-lms review_details low-spicy-oval-theme
 wtc-lms accept low-spicy-oval-theme
 wtc-lms decline low-spicy-oval-theme
-
-Object Orientation > Polymorphism > Toy Robot Example (tough-loose-busy-film) [Invited]
-wtc-lms review_details tough-loose-busy-film
-wtc-lms accept tough-loose-busy-film
-wtc-lms decline tough-loose-busy-film
 
 Object Orientation > Encapsulation > Person Iteration 2 (lying-furry-pale-care) [Invited]
 wtc-lms review_details lying-furry-pale-care
@@ -21063,135 +18606,15 @@ wtc-lms review_details mute-short-windy-bath
 wtc-lms accept mute-short-windy-bath
 wtc-lms decline mute-short-windy-bath
 
-Object Orientation > Polymorphism > Toy Robot Example (fancy-royal-extra-milk) [Invited]
-wtc-lms review_details fancy-royal-extra-milk
-wtc-lms accept fancy-royal-extra-milk
-wtc-lms decline fancy-royal-extra-milk
-
-Object Orientation > Polymorphism > Toy Robot Example (nice-spicy-juicy-stick) [Invited]
-wtc-lms review_details nice-spicy-juicy-stick
-wtc-lms accept nice-spicy-juicy-stick
-wtc-lms decline nice-spicy-juicy-stick
-
-Object Orientation > Polymorphism > Toy Robot Example (shy-tense-icky-fix) [Invited]
-wtc-lms review_details shy-tense-icky-fix
-wtc-lms accept shy-tense-icky-fix
-wtc-lms decline shy-tense-icky-fix
-
-Object Orientation > Polymorphism > Toy Robot Example (two-ruddy-mean-deep) [Invited]
-wtc-lms review_details two-ruddy-mean-deep
-wtc-lms accept two-ruddy-mean-deep
-wtc-lms decline two-ruddy-mean-deep
-
-Object Orientation > Encapsulation > Explorer Bot 1 (clear-three-lean-level) [ReviewLimitReached]
-wtc-lms review_details clear-three-lean-level
-
-Object Orientation > Polymorphism > Toy Robot Example (spicy-dark-quiet-east) [Invited]
-wtc-lms review_details spicy-dark-quiet-east
-wtc-lms accept spicy-dark-quiet-east
-wtc-lms decline spicy-dark-quiet-east
-
-Object Orientation > Polymorphism > Toy Robot Example (slim-jumpy-clean-star) [Invited]
-wtc-lms review_details slim-jumpy-clean-star
-wtc-lms accept slim-jumpy-clean-star
-wtc-lms decline slim-jumpy-clean-star
-
 Object Orientation > Encapsulation > Movies (yummy-nutty-dark-child) [Invited]
 wtc-lms review_details yummy-nutty-dark-child
 wtc-lms accept yummy-nutty-dark-child
 wtc-lms decline yummy-nutty-dark-child
 
-Object Orientation > Encapsulation > Explorer Bot 1 (swift-brief-fancy-sound) [ReviewLimitReached]
-wtc-lms review_details swift-brief-fancy-sound
-
-Object Orientation > Polymorphism > Toy Robot Example (oval-mere-old-pride) [Invited]
-wtc-lms review_details oval-mere-old-pride
-wtc-lms accept oval-mere-old-pride
-wtc-lms decline oval-mere-old-pride
-
-Object Orientation > Polymorphism > Toy Robot Example (legal-nutty-slow-phone) [Invited]
-wtc-lms review_details legal-nutty-slow-phone
-wtc-lms accept legal-nutty-slow-phone
-wtc-lms decline legal-nutty-slow-phone
-
-Object Orientation > Encapsulation > Explorer Bot 1 (good-great-itchy-block) [ReviewLimitReached]
-wtc-lms review_details good-great-itchy-block
-
-Object Orientation > Polymorphism > Toy Robot Example (small-pink-low-hit) [Invited]
-wtc-lms review_details small-pink-low-hit
-wtc-lms accept small-pink-low-hit
-wtc-lms decline small-pink-low-hit
-
-Object Orientation > Polymorphism > Toy Robot Example (testy-tangy-short-it) [Invited]
-wtc-lms review_details testy-tangy-short-it
-wtc-lms accept testy-tangy-short-it
-wtc-lms decline testy-tangy-short-it
-
-Object Orientation > Polymorphism > Toy Robot Example (half-hot-fine-other) [Invited]
-wtc-lms review_details half-hot-fine-other
-wtc-lms accept half-hot-fine-other
-wtc-lms decline half-hot-fine-other
-
-Object Orientation > Polymorphism > Toy Robot Example (black-upset-frail-ring) [Invited]
-wtc-lms review_details black-upset-frail-ring
-wtc-lms accept black-upset-frail-ring
-wtc-lms decline black-upset-frail-ring
-
 Object Orientation > Encapsulation > Person Iteration 1 (goofy-glib-heady-glad) [Invited]
 wtc-lms review_details goofy-glib-heady-glad
 wtc-lms accept goofy-glib-heady-glad
 wtc-lms decline goofy-glib-heady-glad
-
-Object Orientation > Polymorphism > Toy Robot Example (windy-long-aware-other) [Invited]
-wtc-lms review_details windy-long-aware-other
-wtc-lms accept windy-long-aware-other
-wtc-lms decline windy-long-aware-other
-
-Object Orientation > Polymorphism > Toy Robot Example (wide-fancy-needy-cheek) [Invited]
-wtc-lms review_details wide-fancy-needy-cheek
-wtc-lms accept wide-fancy-needy-cheek
-wtc-lms decline wide-fancy-needy-cheek
-
-Object Orientation > Polymorphism > Toy Robot Example (high-tense-silly-iron) [Invited]
-wtc-lms review_details high-tense-silly-iron
-wtc-lms accept high-tense-silly-iron
-wtc-lms decline high-tense-silly-iron
-
-Object Orientation > Encapsulation > Explorer Bot 1 (great-cute-good-month) [ReviewLimitReached]
-wtc-lms review_details great-cute-good-month
-
-Object Orientation > Polymorphism > Toy Robot Example (aloof-meaty-zippy-film) [Invited]
-wtc-lms review_details aloof-meaty-zippy-film
-wtc-lms accept aloof-meaty-zippy-film
-wtc-lms decline aloof-meaty-zippy-film
-
-Object Orientation > Polymorphism > Toy Robot Example (empty-silky-neat-ideal) [Invited]
-wtc-lms review_details empty-silky-neat-ideal
-wtc-lms accept empty-silky-neat-ideal
-wtc-lms decline empty-silky-neat-ideal
-
-Object Orientation > Polymorphism > Toy Robot Example (erect-flaky-true-day) [Invited]
-wtc-lms review_details erect-flaky-true-day
-wtc-lms accept erect-flaky-true-day
-wtc-lms decline erect-flaky-true-day
-
-Object Orientation > Polymorphism > Toy Robot Example (solid-vast-royal-wake) [Invited]
-wtc-lms review_details solid-vast-royal-wake
-wtc-lms accept solid-vast-royal-wake
-wtc-lms decline solid-vast-royal-wake
-
-Object Orientation > Polymorphism > Toy Robot Example (alike-heavy-icky-wait) [Invited]
-wtc-lms review_details alike-heavy-icky-wait
-wtc-lms accept alike-heavy-icky-wait
-wtc-lms decline alike-heavy-icky-wait
-
-Object Orientation > Encapsulation > Explorer Bot 1 (spicy-one-nifty-other) [ReviewLimitReached]
-wtc-lms review_details spicy-one-nifty-other
-
-Object Orientation > Polymorphism > Toy Robot Example (smart-late-cut-bar) [Invited]
-wtc-lms review_details smart-late-cut-bar
-wtc-lms accept smart-late-cut-bar
-wtc-lms decline smart-late-cut-bar
 
 Object Orientation > Encapsulation > Car Iteration 1 (rich-milky-bumpy-reach) [Invited]
 wtc-lms review_details rich-milky-bumpy-reach
@@ -21218,11 +18641,6 @@ wtc-lms review_details harsh-shy-dark-plant
 wtc-lms accept harsh-shy-dark-plant
 wtc-lms decline harsh-shy-dark-plant
 
-Object Orientation > Polymorphism > Toy Robot Example (short-silky-false-page) [Invited]
-wtc-lms review_details short-silky-false-page
-wtc-lms accept short-silky-false-page
-wtc-lms decline short-silky-false-page
-
 Object Orientation > Encapsulation > Person Iteration 4 (sharp-nice-frail-pipe) [Invited]
 wtc-lms review_details sharp-nice-frail-pipe
 wtc-lms accept sharp-nice-frail-pipe
@@ -21233,55 +18651,15 @@ wtc-lms review_details rapid-damp-zippy-draft
 wtc-lms accept rapid-damp-zippy-draft
 wtc-lms decline rapid-damp-zippy-draft
 
-Object Orientation > Polymorphism > Toy Robot Example (irate-dirty-nifty-grade) [Invited]
-wtc-lms review_details irate-dirty-nifty-grade
-wtc-lms accept irate-dirty-nifty-grade
-wtc-lms decline irate-dirty-nifty-grade
-
-Object Orientation > Polymorphism > Toy Robot Example (curly-six-weak-hair) [Invited]
-wtc-lms review_details curly-six-weak-hair
-wtc-lms accept curly-six-weak-hair
-wtc-lms decline curly-six-weak-hair
-
-Object Orientation > Polymorphism > Toy Robot Example (legal-pale-one-tooth) [Invited]
-wtc-lms review_details legal-pale-one-tooth
-wtc-lms accept legal-pale-one-tooth
-wtc-lms decline legal-pale-one-tooth
-
-Object Orientation > Polymorphism > Toy Robot Example (null-ajar-ten-home) [Invited]
-wtc-lms review_details null-ajar-ten-home
-wtc-lms accept null-ajar-ten-home
-wtc-lms decline null-ajar-ten-home
-
 Object Orientation > Encapsulation > Person Iteration 1 (extra-few-glib-eat) [Invited]
 wtc-lms review_details extra-few-glib-eat
 wtc-lms accept extra-few-glib-eat
 wtc-lms decline extra-few-glib-eat
 
-Object Orientation > Polymorphism > Toy Robot Example (elite-cut-sore-dare) [Invited]
-wtc-lms review_details elite-cut-sore-dare
-wtc-lms accept elite-cut-sore-dare
-wtc-lms decline elite-cut-sore-dare
-
-Object Orientation > Polymorphism > Toy Robot Example (jolly-nutty-ruddy-team) [Invited]
-wtc-lms review_details jolly-nutty-ruddy-team
-wtc-lms accept jolly-nutty-ruddy-team
-wtc-lms decline jolly-nutty-ruddy-team
-
 Object Orientation > Encapsulation > Person Iteration 1 (dear-fancy-needy-title) [Invited]
 wtc-lms review_details dear-fancy-needy-title
 wtc-lms accept dear-fancy-needy-title
 wtc-lms decline dear-fancy-needy-title
-
-Object Orientation > Polymorphism > Toy Robot Example (thick-silky-curvy-blind) [Invited]
-wtc-lms review_details thick-silky-curvy-blind
-wtc-lms accept thick-silky-curvy-blind
-wtc-lms decline thick-silky-curvy-blind
-
-Object Orientation > Polymorphism > Toy Robot Example (lazy-cagey-misty-movie) [Invited]
-wtc-lms review_details lazy-cagey-misty-movie
-wtc-lms accept lazy-cagey-misty-movie
-wtc-lms decline lazy-cagey-misty-movie
 
 Object Orientation > Encapsulation > Car Iteration 1 (bad-damp-wiry-keep) [Invited]
 wtc-lms review_details bad-damp-wiry-keep
@@ -21293,53 +18671,18 @@ wtc-lms review_details big-eager-whole-use
 wtc-lms accept big-eager-whole-use
 wtc-lms decline big-eager-whole-use
 
-Object Orientation > Polymorphism > Toy Robot Example (shiny-lumpy-ritzy-piano) [Invited]
-wtc-lms review_details shiny-lumpy-ritzy-piano
-wtc-lms accept shiny-lumpy-ritzy-piano
-wtc-lms decline shiny-lumpy-ritzy-piano
-
-Object Orientation > Polymorphism > Toy Robot Example (last-upset-fresh-peace) [Invited]
-wtc-lms review_details last-upset-fresh-peace
-wtc-lms accept last-upset-fresh-peace
-wtc-lms decline last-upset-fresh-peace
-
 Object Orientation > Encapsulation > Person Iteration 2 (weak-fine-best-track) [Invited]
 wtc-lms review_details weak-fine-best-track
 wtc-lms accept weak-fine-best-track
 wtc-lms decline weak-fine-best-track
-
-Object Orientation > Polymorphism > Toy Robot Example (macho-abaft-nippy-smell) [Invited]
-wtc-lms review_details macho-abaft-nippy-smell
-wtc-lms accept macho-abaft-nippy-smell
-wtc-lms decline macho-abaft-nippy-smell
-
-Object Orientation > Polymorphism > Toy Robot Example (dark-dizzy-meek-dirt) [Invited]
-wtc-lms review_details dark-dizzy-meek-dirt
-wtc-lms accept dark-dizzy-meek-dirt
-wtc-lms decline dark-dizzy-meek-dirt
 
 Object Orientation > Encapsulation > Person Iteration 2 (deep-sulky-tacit-actor) [Invited]
 wtc-lms review_details deep-sulky-tacit-actor
 wtc-lms accept deep-sulky-tacit-actor
 wtc-lms decline deep-sulky-tacit-actor
 
-Object Orientation > Polymorphism > Toy Robot Example (dear-wry-upset-fruit) [Invited]
-wtc-lms review_details dear-wry-upset-fruit
-wtc-lms accept dear-wry-upset-fruit
-wtc-lms decline dear-wry-upset-fruit
-
-Object Orientation > Polymorphism > Toy Robot Example (puffy-alike-slim-trash) [Invited]
-wtc-lms review_details puffy-alike-slim-trash
-wtc-lms accept puffy-alike-slim-trash
-wtc-lms decline puffy-alike-slim-trash
-
-Object Orientation > Encapsulation > Movies (furry-rural-fast-screw) [Invited]
+Object Orientation > Encapsulation > Movies (furry-rural-fast-screw) [Graded]
 wtc-lms review_details furry-rural-fast-screw
-wtc-lms accept furry-rural-fast-screw
-wtc-lms decline furry-rural-fast-screw
-
-Object Orientation > Encapsulation > Explorer Bot 1 (nifty-crazy-short-fee) [ReviewLimitReached]
-wtc-lms review_details nifty-crazy-short-fee
 
 Object Orientation > Encapsulation > Person Iteration 2 (tidy-dead-last-peace) [Graded]
 wtc-lms review_details tidy-dead-last-peace
@@ -21349,9 +18692,6 @@ wtc-lms review_details cold-quick-rich-cap
 
 Object Orientation > Polymorphism > Toy Robot Example (long-full-gusty-toe) [Graded]
 wtc-lms review_details long-full-gusty-toe
-
-Object Orientation > Encapsulation > Explorer Bot 1 (alive-great-neat-grade) [ReviewLimitReached]
-wtc-lms review_details alive-great-neat-grade
 
 Object Orientation > Polymorphism > Toy Robot Example (godly-foamy-mixed-taste) [Graded]
 wtc-lms review_details godly-foamy-mixed-taste
@@ -21403,5 +18743,10 @@ wtc-lms review_details zippy-cut-known-fix
 
 Object Orientation > Encapsulation > Person Iteration 1 (bent-furry-weary-tell) [Graded]
 wtc-lms review_details bent-furry-weary-tell
+
+Object Orientation > Encapsulation > Car Iteration 2 (tasty-late-cruel-drive) [Invited]
+wtc-lms review_details tasty-late-cruel-drive
+wtc-lms accept tasty-late-cruel-drive
+wtc-lms decline tasty-late-cruel-drive
 
 --------------------------------------------------------------------------------------------------------------------------------
