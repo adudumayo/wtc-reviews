@@ -15,7 +15,7 @@ while true; do
         echo "Running the command again..."
         output=$($command)
     else
-        uuid=$(python3 ./uudiFinder.py)
+        uuid=$(python3 ./uuidFinder.py)
         echo $uuid
         break
     fi
