@@ -16436,10 +16436,8 @@ wtc-lms review_details nutty-sore-solid-milk
 wtc-lms accept nutty-sore-solid-milk
 wtc-lms decline nutty-sore-solid-milk
 
-Object Orientation > Encapsulation > Car Iteration 2 (fast-shiny-cruel-thing) [Invited]
+Object Orientation > Encapsulation > Car Iteration 2 (fast-shiny-cruel-thing) [AcceptanceBlocked]
 wtc-lms review_details fast-shiny-cruel-thing
-wtc-lms accept fast-shiny-cruel-thing
-wtc-lms decline fast-shiny-cruel-thing
 
 Object Orientation > Encapsulation > Person Iteration 4 (abaft-lazy-tense-jump) [Invited]
 wtc-lms review_details abaft-lazy-tense-jump
@@ -18204,10 +18202,8 @@ wtc-lms review_details wild-amuck-fixed-crash
 wtc-lms accept wild-amuck-fixed-crash
 wtc-lms decline wild-amuck-fixed-crash
 
-Object Orientation > Encapsulation > Movies (stiff-even-macho-sport) [Invited]
+Object Orientation > Encapsulation > Movies (stiff-even-macho-sport) [AcceptanceBlocked]
 wtc-lms review_details stiff-even-macho-sport
-wtc-lms accept stiff-even-macho-sport
-wtc-lms decline stiff-even-macho-sport
 
 Object Orientation > Encapsulation > Movies (meek-ripe-four-whole) [Invited]
 wtc-lms review_details meek-ripe-four-whole
@@ -18522,10 +18518,8 @@ wtc-lms review_details giant-round-cut-milk
 wtc-lms accept giant-round-cut-milk
 wtc-lms decline giant-round-cut-milk
 
-Object Orientation > Encapsulation > Car Iteration 1 (dead-hard-woozy-chest) [Invited]
+Object Orientation > Encapsulation > Car Iteration 1 (dead-hard-woozy-chest) [AcceptanceBlocked]
 wtc-lms review_details dead-hard-woozy-chest
-wtc-lms accept dead-hard-woozy-chest
-wtc-lms decline dead-hard-woozy-chest
 
 Object Orientation > Encapsulation > Movies (sick-lazy-mere-many) [Invited]
 wtc-lms review_details sick-lazy-mere-many

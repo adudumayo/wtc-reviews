@@ -16,7 +16,8 @@ while true; do
         output=$($command)
     else
         uuid=$(python3 ./uuidFinder.py)
-        echo $uuid
+        add_comment="wtc-lms add_comment $uuid \"Great work\""
+        echo $add_comment
         break
     fi
 done
