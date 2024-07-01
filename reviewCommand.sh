@@ -15,8 +15,8 @@ while true; do
         echo "Running the command again..."
         output=$($command)
     else
-        acceptReview=$(python3 ./filterScript.py)
-        echo $acceptReview
+        uuid=$(python3 ./uudiFinder.py)
+        echo $uuid
         break
     fi
 done
