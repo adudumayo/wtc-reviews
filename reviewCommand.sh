@@ -6,12 +6,15 @@ notDesiredOutput="listing reviews failed because Request(reqwest::Error { kind: 
 
 while true; do
     output=$($command)
-    echo "$output">output.txt
 
     if [[ $output == *"$notDesiredOutput"* ]]; then
         echo "Running the command again..."
-        output=$($command)
+        continue
     else
+        echo "$output">output.txt
+        # break point
+        #break
+
         # Getting the uuid
         uuid=$(python3 ./uuidFinder.py)
 
@@ -22,16 +25,21 @@ while true; do
         
         # Accepting review
         lms_accept="wtc-lms accept $uuid"
-        echo "Checking availability for $uuid" && echo
-        echo "lms_accept $uuid">output.txt
-        acceptanceStatus=$(python3 ./acceptor.py $uuid)
 
-        if [[ $acceptanceStatus == "accepted" ]]; then
+        echo "Checking if you can review $uuid" && echo
+        echo "$($lms_accept)">output.txt
+
+        # break point
+        break
+
+        acceptanceStatus=$(python3 ./acceptor.py)
+
+        if [[ $acceptanceStatus == "Accepted" ]]; then
             echo "Now reviewing : $uuid" && echo
 
             # Adding the comment
             echo "Looking for the best comment for : $uuid ..." && echo && sleep 2
-            add_comment="wtc-lms add_comment $uuid \"Nice\""
+            add_comment="wtc-lms add_comment $uuid \"Beautiful\""
             echo "Now running $add_comment" && echo && sleep 2
             echo $($add_comment) && echo && sleep 2
 
@@ -44,5 +52,6 @@ while true; do
             echo "You can't review $uuid, looking for another review..." && echo && sleep 3
         fi
     fi
+    #break
 done
 
