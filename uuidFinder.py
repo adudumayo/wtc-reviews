@@ -1,7 +1,7 @@
 with open('output.txt', 'r') as file:
     lines = file.readlines()
     for i in range(len(lines)):
-        if "[Assigned]" in lines[i]:
+        if "[Invited]" in lines[i]:
             acceptLine = lines[i+2]
             break
 
