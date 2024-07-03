@@ -12,8 +12,6 @@ while true; do
         continue
     else
         echo "$output">output.txt
-        # break point
-        #break
 
         # Getting the uuid
         uuid=$(python3 ./uuidFinder.py)
@@ -28,9 +26,6 @@ while true; do
 
         echo "Checking if you can review $uuid" && echo
         echo "$($lms_accept)">output.txt
-
-        # break point
-        #break
 
         acceptanceStatus=$(python3 ./acceptor.py)
 
@@ -50,8 +45,10 @@ while true; do
             echo $($complete_review)
         else
             echo "You can't review $uuid, looking for another review..." && echo
+            continue
         fi
     fi
-    break
+    echo "On to the next one"
+    sleep 3m
 done
 
