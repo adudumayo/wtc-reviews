@@ -30,7 +30,7 @@ while true; do
         echo "$($lms_accept)">output.txt
 
         # break point
-        break
+        #break
 
         acceptanceStatus=$(python3 ./acceptor.py)
 
@@ -39,7 +39,7 @@ while true; do
 
             # Adding the comment
             echo "Looking for the best comment for : $uuid ..." && echo && sleep 2
-            add_comment="wtc-lms add_comment $uuid \"Beautiful\""
+            add_comment="wtc-lms add_comment $uuid \"Nice\""
             echo "Now running $add_comment" && echo && sleep 2
             echo $($add_comment) && echo && sleep 2
 
@@ -49,9 +49,9 @@ while true; do
             echo "Now running $complete_review" && echo && sleep 2
             echo $($complete_review)
         else
-            echo "You can't review $uuid, looking for another review..." && echo && sleep 3
+            echo "You can't review $uuid, looking for another review..." && echo
         fi
     fi
-    #break
+    break
 done
 

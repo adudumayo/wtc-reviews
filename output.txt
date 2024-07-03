@@ -1,1 +1,7 @@
-Unfortunately you have reviewed enough submissions for this problem. Please try another problem
++++ Waiting for review assignment...
+..Thank you for accepting review best-early-star.
+
+            
+Please run the following to download the repository:
+
+git clone git@gitlab.wethinkco.de:root/grading_problem_used-safe-peace.git
